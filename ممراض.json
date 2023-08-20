@@ -1,4 +1,6 @@
 {
-  "arabic": "ممراض",
+  "term": "ممراض",
+  "previous_term": "مريض",
+  "next_term": "تمريض",
   "definition": "ممراض mimrāḍ sickly, in poor health, ailing"
 }

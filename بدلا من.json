@@ -1,4 +1,6 @@
 {
-  "arabic": "بدلا من",
+  "term": "بدلا من",
+  "previous_term": "بدل",
+  "next_term": "بدلة",
   "definition": "بدلا من badalan min in place of, instead of, in lieu of"
 }

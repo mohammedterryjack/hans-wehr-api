@@ -1,4 +1,6 @@
 {
-  "arabic": "محلل",
+  "term": "محلل",
+  "previous_term": "محلول",
+  "next_term": "منحل",
   "definition": "محلل muḥallil analyzer"
 }

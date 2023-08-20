@@ -1,4 +1,6 @@
 {
-  "arabic": "فيلم",
+  "term": "فيلم",
+  "previous_term": "فيلق",
+  "next_term": "فيلولوجيا",
   "definition": "فيلم = فلم film film"
 }

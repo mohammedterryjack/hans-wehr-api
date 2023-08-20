@@ -1,4 +1,6 @@
 {
-  "arabic": "الآجلة",
+  "term": "الآجلة",
+  "previous_term": "آجل",
+  "next_term": "مؤجل",
   "definition": "الآجلة al-ājila the life to come, the hereafter"
 }

@@ -1,4 +1,6 @@
 {
-  "arabic": "احراق",
+  "term": "احراق",
+  "previous_term": "تحاريق",
+  "next_term": "تحرق",
   "definition": "احراق burning, incineration, combustion"
 }

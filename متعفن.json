@@ -1,4 +1,6 @@
 {
-  "arabic": "متعفن",
+  "term": "متعفن",
+  "previous_term": "معفن",
+  "next_term": "عفو",
   "definition": "متعفن muta‘affin rotten, putrid, decayed, decomposed, spoiled, moldy, musty, mildewy; septic"
 }

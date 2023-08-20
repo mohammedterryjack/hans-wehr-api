@@ -1,4 +1,6 @@
 {
-  "arabic": "مرتد",
+  "term": "مرتد",
+  "previous_term": "مردود",
+  "next_term": "ردا",
   "definition": "مرتد murtadd turncoat, renegade, apostate"
 }

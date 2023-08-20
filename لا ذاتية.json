@@ -1,4 +1,6 @@
 {
-  "arabic": "لا ذاتية",
+  "term": "لا ذاتية",
+  "previous_term": "ذاتية",
+  "next_term": "ذواتي",
   "definition": "لا ذاتية lā-dātīya impersonality"
 }

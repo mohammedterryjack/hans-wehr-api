@@ -1,4 +1,6 @@
 {
-  "arabic": "مشمس",
+  "term": "مشمس",
+  "previous_term": "شامس",
+  "next_term": "شمشم",
   "definition": "مشمس mušmis sunny (day)"
 }

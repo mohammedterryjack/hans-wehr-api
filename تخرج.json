@@ -1,4 +1,6 @@
 {
-  "arabic": "تخرج",
+  "term": "تخرج",
+  "previous_term": "اخراج",
+  "next_term": "تخارج",
   "definition": "تخرج takarruj graduation (from a school or college)"
 }

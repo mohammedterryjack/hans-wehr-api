@@ -1,4 +1,6 @@
 {
-  "arabic": "ممن",
+  "term": "ممن",
+  "previous_term": "مما",
+  "next_term": "من",
   "definition": "ممن mimman = min man"
 }

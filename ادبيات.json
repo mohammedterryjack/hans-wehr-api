@@ -1,4 +1,6 @@
 {
-  "arabic": "ادبيات",
+  "term": "ادبيات",
+  "previous_term": "ادبي",
+  "next_term": "ادبخانة",
   "definition": "ادبيات adabīyāt lliterature, belles-lettres"
 }

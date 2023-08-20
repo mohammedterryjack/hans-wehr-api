@@ -1,4 +1,6 @@
 {
-  "arabic": "المحبس عليه",
+  "term": "المحبس عليه",
+  "previous_term": "محبوس",
+  "next_term": "منحبس",
   "definition": "المحبس عليه al-muḥabbas ‘alaihi beneficiary of a habous (see حبس ḥubs)"
 }

@@ -1,4 +1,6 @@
 {
-  "arabic": "مقرح",
+  "term": "مقرح",
+  "previous_term": "اقتراح",
+  "next_term": "متقرح",
   "definition": "مقرح muqarraḥ covered with ulcers, ulcerous, ulcerated"
 }

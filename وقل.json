@@ -1,4 +1,6 @@
 {
-  "arabic": "وقل",
+  "term": "وقل",
+  "previous_term": "متوقف",
+  "next_term": "وقواق",
   "definition": "وقل <b>V</b> to climb, mount"
 }

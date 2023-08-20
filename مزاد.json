@@ -1,4 +1,6 @@
 {
-  "arabic": "مزاد",
+  "term": "مزاد",
+  "previous_term": "ازيد",
+  "next_term": "مزيد",
   "definition": "مزاد mazād pl. -āt auction, public sale"
 }

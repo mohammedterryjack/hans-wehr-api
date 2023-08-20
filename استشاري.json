@@ -1,4 +1,6 @@
 {
-  "arabic": "استشاري",
+  "term": "استشاري",
+  "previous_term": "استشارة",
+  "next_term": "مشاور",
   "definition": "استشاري istišārī consultative, advisory"
 }

@@ -1,4 +1,6 @@
 {
-  "arabic": "متجمد",
+  "term": "متجمد",
+  "previous_term": "جامد",
+  "next_term": "منجمد",
   "definition": "متجمد mutajammid frozen, icy; stiff, congealed; coagulated"
 }

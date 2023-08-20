@@ -1,4 +1,6 @@
 {
-  "arabic": "متغيب",
+  "term": "متغيب",
+  "previous_term": "مغيبات",
+  "next_term": "مغتاب",
   "definition": "متغيب mutagayyib absent (عن from)"
 }

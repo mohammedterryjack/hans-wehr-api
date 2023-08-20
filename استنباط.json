@@ -1,4 +1,6 @@
 {
-  "arabic": "استنباط",
+  "term": "استنباط",
+  "previous_term": "نبطي",
+  "next_term": "مستنبط",
   "definition": "استنباط isṭinbāt discovery, invention"
 }

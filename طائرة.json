@@ -1,4 +1,6 @@
 {
-  "arabic": "طائرة",
+  "term": "طائرة",
+  "previous_term": "طائر",
+  "next_term": "متطير",
   "definition": "طائرة ṭā’ira pl. -āt airplane, aircraft │ على متن الطائرة (maṭni ṭ-ṭ.) aboard the airplane; by (air)plane (e.g., traveling); طائرة بحرية (baḥrīya) seaplane; O طائرة دورية (daurīya) (short-range) reconnaissance plane, observation plane; طائرة شراعية (širā‘īya) sailplane, glider; طائرة المطاردة ṭ. al-muṭārada fighter, pursuit plane, interceptor; طائرة عمودية (‘amūdīya) helicopter; طائرة القتال light bomber, combat plane; طائرة المقاتلة ṭ. al-muqāṭala do.; O طائرة الانقضاض or طائرة انقضاضية dive bomber; طائرة مائية seaplane; طائرة نفاثة (naffāṭa) jet plane; طائرة النقل ṭ. an-naql transport (plane); O حاملات الطائرات and O ناقلات الطائرات aircraft carrier"
 }

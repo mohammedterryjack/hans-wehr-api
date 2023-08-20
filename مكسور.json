@@ -1,4 +1,6 @@
 {
-  "arabic": "مكسور",
+  "term": "مكسور",
+  "previous_term": "كاسر",
+  "next_term": "مكسر",
   "definition": "مكسور maksūr broken, fractured; shattered, fragmented; defeated; unsuccessful, thwarted, frustrated; bankrupt; having a kasra (consonant; gram.)"
 }

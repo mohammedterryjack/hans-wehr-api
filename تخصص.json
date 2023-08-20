@@ -1,4 +1,6 @@
 {
-  "arabic": "تخصص",
+  "term": "تخصص",
+  "previous_term": "تخصيص",
+  "next_term": "اختصاص",
   "definition": "تخصص takaṣṣuṣ specialization (esp., in a scientific field)"
 }

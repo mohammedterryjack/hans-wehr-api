@@ -1,4 +1,6 @@
 {
-  "arabic": "انحباس",
+  "term": "انحباس",
+  "previous_term": "محبسة",
+  "next_term": "احتباس",
   "definition": "انحباس inḥibās seclusion, confinement; stoppage, interruption; cessation"
 }

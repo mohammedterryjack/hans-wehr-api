@@ -1,4 +1,6 @@
 {
-  "arabic": "قال وقيل",
+  "term": "قال وقيل",
+  "previous_term": "قول",
+  "next_term": "قالة",
   "definition": "قال وقيل qāl wa-qīl and قيل وقال qīl wa-qāl long palaver; idle talk, prattle, gossip"
 }

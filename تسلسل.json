@@ -1,4 +1,6 @@
 {
-  "arabic": "تسلسل",
+  "term": "تسلسل",
+  "previous_term": "سلسلة",
+  "next_term": "مسلسل",
   "definition": "تسلسل tasalsul sequence, succession │ بالتسلسل without interruption, successively, consecutively, continuously; نشره بتسلسل to serialize s.th., publish s.th. in serial form 421"
 }

@@ -1,4 +1,6 @@
 {
-  "arabic": "غائم",
+  "term": "غائم",
+  "previous_term": "غيم",
+  "next_term": "متغيم",
   "definition": "غائم gā’im clouded, overcast; cloudy"
 }

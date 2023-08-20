@@ -1,4 +1,6 @@
 {
-  "arabic": "مغلق",
+  "term": "مغلق",
+  "previous_term": "انغلاق",
+  "next_term": "مستغلق",
   "definition": "مغلق maglaq closed, shut; locked, bolted; obscure, dark, ambiguous, dubious, abstruse, recondite, difficult to comprehend"
 }

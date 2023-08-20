@@ -1,4 +1,6 @@
 {
-  "arabic": "ملغز",
+  "term": "ملغز",
+  "previous_term": "لغز",
+  "next_term": "لغط",
   "definition": "ملغز mulgaz puzzling, enigmatic, cryptic, mysterious; dark, obscure, ambiguous, equivocal"
 }

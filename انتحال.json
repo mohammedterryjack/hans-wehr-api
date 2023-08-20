@@ -1,4 +1,6 @@
 {
-  "arabic": "انتحال",
+  "term": "انتحال",
+  "previous_term": "نحيل",
+  "next_term": "منتحل",
   "definition": "انتحال intiḥāl undue assumption, arrogation; literary theft, plagiarism"
 }

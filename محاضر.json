@@ -1,4 +1,6 @@
 {
-  "arabic": "محاضر",
+  "term": "محاضر",
+  "previous_term": "محضور",
+  "next_term": "متحضر",
   "definition": "محاضر muḥāḍir lecturer, speaker"
 }

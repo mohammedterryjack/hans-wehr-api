@@ -1,4 +1,6 @@
 {
-  "arabic": "معذور",
+  "term": "معذور",
+  "previous_term": "اعتذار",
+  "next_term": "متعذر",
   "definition": "معذور ma‘dūr excused, justified, warranted; excusable"
 }

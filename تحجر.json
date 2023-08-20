@@ -1,4 +1,6 @@
 {
-  "arabic": "تحجر",
+  "term": "تحجر",
+  "previous_term": "محجر",
+  "next_term": "متحجر",
   "definition": "تحجر taḥajjur petrification"
 }

@@ -1,4 +1,6 @@
 {
-  "arabic": "لا حتمية",
+  "term": "لا حتمية",
+  "previous_term": "حتمية",
+  "next_term": "محتوم",
   "definition": "لا حتمية lā-ḥatmīya indeterminism (philos.)"
 }

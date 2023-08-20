@@ -1,4 +1,6 @@
 {
-  "arabic": "مقسوم",
+  "term": "مقسوم",
+  "previous_term": "قام",
+  "next_term": "مقسم",
   "definition": "مقسوم maqsūm dividend (math.); مقسوم عليه divisor (math.)"
 }

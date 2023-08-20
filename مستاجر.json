@@ -1,4 +1,6 @@
 {
-  "arabic": "مستاجر",
+  "term": "مستاجر",
+  "previous_term": "مؤجر",
+  "next_term": "آجر",
   "definition": "مستأجر musta’jir leaseholder, lessee, tenant; employer 5"
 }

@@ -1,4 +1,6 @@
 {
-  "arabic": "تضاعف",
+  "term": "تضاعف",
+  "previous_term": "مضاعفة",
+  "next_term": "مضعف",
   "definition": "تضاعف taḍā‘uf doubling, multiplying"
 }

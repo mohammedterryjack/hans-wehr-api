@@ -1,4 +1,6 @@
 {
-  "arabic": "ناشر",
+  "term": "ناشر",
+  "previous_term": "انتشار",
+  "next_term": "منشور",
   "definition": "ناشر nāšir publisher"
 }

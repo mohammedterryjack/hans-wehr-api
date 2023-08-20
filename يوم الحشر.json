@@ -1,4 +1,6 @@
 {
-  "arabic": "يوم الحشر",
+  "term": "يوم الحشر",
+  "previous_term": "حشر",
+  "next_term": "حشرة",
   "definition": "يوم الحشر yaum al-ḥašr the day of congregation (of the dead), the Day of resurrection"
 }

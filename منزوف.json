@@ -1,4 +1,6 @@
 {
-  "arabic": "منزوف",
+  "term": "منزوف",
+  "previous_term": "نزيف",
+  "next_term": "نزق",
   "definition": "منزوف manzūf exhausted through loss of blood"
 }

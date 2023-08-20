@@ -1,4 +1,6 @@
 {
-  "arabic": "فطور",
+  "term": "فطور",
+  "previous_term": "فطرة",
+  "next_term": "فطير",
   "definition": "فطور faṭūr breakfast"
 }

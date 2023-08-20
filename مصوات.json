@@ -1,4 +1,6 @@
 {
-  "arabic": "مصوات",
+  "term": "مصوات",
+  "previous_term": "صيت",
+  "next_term": "تصويت",
   "definition": "مصوات miṣwāt microphone"
 }

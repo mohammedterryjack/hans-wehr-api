@@ -1,4 +1,6 @@
 {
-  "arabic": "باشمهندس",
+  "term": "باشمهندس",
+  "previous_term": "باشمفتش",
+  "next_term": "باشا",
   "definition": "باشمهندس bāšmuhandis chief engineer"
 }

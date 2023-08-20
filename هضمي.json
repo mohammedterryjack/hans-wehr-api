@@ -1,4 +1,6 @@
 {
-  "arabic": "هضمي",
+  "term": "هضمي",
+  "previous_term": "هضم",
+  "next_term": "هضوم",
   "definition": "هضمي haḍmī digestive, alimentary"
 }

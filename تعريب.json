@@ -1,4 +1,6 @@
 {
-  "arabic": "تعريب",
+  "term": "تعريب",
+  "previous_term": "عروبة",
+  "next_term": "اعراب",
   "definition": "تعريب ta‘rīb Arabicizing, Arabization; translation into Arabic; incorporation (of loanwords) into Arabic"
 }

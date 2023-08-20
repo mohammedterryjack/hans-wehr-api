@@ -1,4 +1,6 @@
 {
-  "arabic": "صبحة",
+  "term": "صبحة",
+  "previous_term": "صبح",
+  "next_term": "صباح",
   "definition": "صبحة ṣubḥa early morning; breakfast, morning meal"
 }

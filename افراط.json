@@ -1,4 +1,6 @@
 {
-  "arabic": "افراط",
+  "term": "افراط",
+  "previous_term": "تفريط",
+  "next_term": "فارط",
   "definition": "افراط afrāṭ excess, immoderation, exaggeration"
 }

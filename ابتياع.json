@@ -1,4 +1,6 @@
 {
-  "arabic": "ابتياع",
+  "term": "ابتياع",
+  "previous_term": "مبايعة",
+  "next_term": "بائع",
   "definition": "ابتياع ibtiyā‘ purchase"
 }

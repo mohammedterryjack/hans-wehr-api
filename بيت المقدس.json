@@ -1,4 +1,6 @@
 {
-  "arabic": "بيت المقدس",
+  "term": "بيت المقدس",
+  "previous_term": "اقدس",
+  "next_term": "تقديس",
   "definition": "بيت المقدس bait al-maqdis Jerusalem"
 }

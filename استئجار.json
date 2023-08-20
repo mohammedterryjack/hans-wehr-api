@@ -1,4 +1,6 @@
 {
-  "arabic": "استئجار",
+  "term": "استئجار",
+  "previous_term": "اجارة",
+  "next_term": "ماجور",
   "definition": "استئجار isti’jār rent, lease, tenure"
 }

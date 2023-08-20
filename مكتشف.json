@@ -1,4 +1,6 @@
 {
-  "arabic": "مكتشف",
+  "term": "مكتشف",
+  "previous_term": "مكشوف",
+  "next_term": "مكتشفات",
   "definition": "مكتشف muktašif discoverer, explorer"
 }

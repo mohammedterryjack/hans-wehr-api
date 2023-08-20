@@ -1,4 +1,6 @@
 {
-  "arabic": "جمودة",
+  "term": "جمودة",
+  "previous_term": "جمود",
+  "next_term": "تجميد",
   "definition": "جمودة jumūda solidity, hardness"
 }

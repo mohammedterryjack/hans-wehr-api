@@ -1,4 +1,6 @@
 {
-  "arabic": "مداواة",
+  "term": "مداواة",
+  "previous_term": "داء",
+  "next_term": "تداو",
   "definition": "مداواة mudāwāh treatment, therapy (med.)"
 }

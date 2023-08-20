@@ -1,4 +1,6 @@
 {
-  "arabic": "تحريم",
+  "term": "تحريم",
+  "previous_term": "محرمة",
+  "next_term": "احرام",
   "definition": "تحريم taḥrīm forbiddance, interdiction, prohibition, ban"
 }

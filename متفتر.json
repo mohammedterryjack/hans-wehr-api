@@ -1,4 +1,6 @@
 {
-  "arabic": "متفتر",
+  "term": "متفتر",
+  "previous_term": "فاتر",
+  "next_term": "فتش",
   "definition": "متفتر mutafattir intermittent"
 }

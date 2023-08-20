@@ -1,4 +1,6 @@
 {
-  "arabic": "اللاهوت",
+  "term": "اللاهوت",
+  "previous_term": "متاله",
+  "next_term": "آلو",
   "definition": "اللاهوت etc., see لاهوت"
 }

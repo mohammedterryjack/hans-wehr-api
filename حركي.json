@@ -1,4 +1,6 @@
 {
-  "arabic": "حركي",
+  "term": "حركي",
+  "previous_term": "حركة",
+  "next_term": "حراك",
   "definition": "حركي ḥarakī kinetic (phys.)"
 }

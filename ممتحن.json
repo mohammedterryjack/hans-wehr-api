@@ -1,4 +1,6 @@
 {
-  "arabic": "ممتحن",
+  "term": "ممتحن",
+  "previous_term": "امتحان",
+  "next_term": "محو",
   "definition": "ممتحن mumtaḥin tester; examiner\n\n\nممتحن mumtaḥan examined; tried, tested; examinee, candidate"
 }

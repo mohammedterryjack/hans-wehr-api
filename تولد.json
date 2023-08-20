@@ -1,4 +1,6 @@
 {
-  "arabic": "تولد",
+  "term": "تولد",
+  "previous_term": "توليد",
+  "next_term": "استيلاد",
   "definition": "تولد tawallud generation, production"
 }

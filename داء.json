@@ -1,4 +1,6 @@
 {
-  "arabic": "داء",
+  "term": "داء",
+  "previous_term": "دوائي",
+  "next_term": "مداواة",
   "definition": "داء see دوء"
 }

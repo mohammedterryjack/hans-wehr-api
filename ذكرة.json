@@ -1,4 +1,6 @@
 {
-  "arabic": "ذكرة",
+  "term": "ذكرة",
+  "previous_term": "ذكر",
+  "next_term": "ذكرى",
   "definition": "ذكرة dukra reputation, repute, renown"
 }

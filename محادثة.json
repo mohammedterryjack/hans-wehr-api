@@ -1,4 +1,6 @@
 {
-  "arabic": "محادثة",
+  "term": "محادثة",
+  "previous_term": "احدوثة",
+  "next_term": "احداثيات",
   "definition": "محادثة muḥādata pl. -āt discourse, conversation, discussion, talk, parley"
 }

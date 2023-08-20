@@ -1,4 +1,6 @@
 {
-  "arabic": "ص ب",
+  "term": "ص ب",
+  "previous_term": "ص",
+  "next_term": "صؤاب",
   "definition": "ص ب abbreviation of صندوق البريد ṣundūq al-barīd post-office box, p. o. b."
 }

@@ -1,4 +1,6 @@
 {
-  "arabic": "مقراض",
+  "term": "مقراض",
+  "previous_term": "قراضة",
+  "next_term": "انقراض",
   "definition": "مقراض miqrāḍ pl. مقاريض maqārīḍ2 scissors"
 }

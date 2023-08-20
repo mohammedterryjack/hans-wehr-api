@@ -1,4 +1,6 @@
 {
-  "arabic": "شهرية",
+  "term": "شهرية",
+  "previous_term": "شهري",
+  "next_term": "شهرة",
   "definition": "شهرية šahrīya monthly salary"
 }

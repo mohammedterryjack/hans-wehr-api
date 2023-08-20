@@ -1,4 +1,6 @@
 {
-  "arabic": "استحمام",
+  "term": "استحمام",
+  "previous_term": "محم",
+  "next_term": "محموم",
   "definition": "استحمام istiḥmām bathing, bath"
 }

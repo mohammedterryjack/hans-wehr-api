@@ -1,4 +1,6 @@
 {
-  "arabic": "صلاة التراويح",
+  "term": "صلاة التراويح",
+  "previous_term": "ترويحة",
+  "next_term": "ترييح",
   "definition": "صلاة التراويح ṣalāt at-tarāwīḥ prayer performed during the nights of Ramadan"
 }

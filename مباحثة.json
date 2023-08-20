@@ -1,4 +1,6 @@
 {
-  "arabic": "مباحثة",
+  "term": "مباحثة",
+  "previous_term": "مبحث",
+  "next_term": "باحث",
   "definition": "مباحثة mubāḥata pl. -āt negotiation, parley, conference, talk, discussion"
 }

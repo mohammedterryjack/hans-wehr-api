@@ -1,4 +1,6 @@
 {
-  "arabic": "تعداد",
+  "term": "تعداد",
+  "previous_term": "معداد",
+  "next_term": "اعداد",
   "definition": "تعداد ta‘dād counting, count; enumeration, listing; computation, calculation │ تعداد الأنفس t. al-anfus census"
 }

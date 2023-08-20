@@ -1,4 +1,6 @@
 {
-  "arabic": "مهاجم",
+  "term": "مهاجم",
+  "previous_term": "تهجم",
+  "next_term": "هجن",
   "definition": "مهاجم muhājim attacker, assailant, aggressor; forward (in soccer, and the like)"
 }

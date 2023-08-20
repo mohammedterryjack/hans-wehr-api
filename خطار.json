@@ -1,4 +1,6 @@
 {
-  "arabic": "خطار",
+  "term": "خطار",
+  "previous_term": "خطر",
+  "next_term": "خطير",
   "definition": "خطار kaṭṭār pendulum (phys.)"
 }

@@ -1,4 +1,6 @@
 {
-  "arabic": "استصباح",
+  "term": "استصباح",
+  "previous_term": "اصباح",
+  "next_term": "مصبح",
   "definition": "استصباح istiṣbāḥ illumination, lighting │ غاز الاستصباح illuminating gas"
 }

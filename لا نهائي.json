@@ -1,4 +1,6 @@
 {
-  "arabic": "لا نهائي",
+  "term": "لا نهائي",
+  "previous_term": "نهائي",
+  "next_term": "لانهائية",
   "definition": "لا نهائي lā-nihā’ī infinite, unending"
 }

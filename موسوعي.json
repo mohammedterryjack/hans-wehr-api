@@ -1,4 +1,6 @@
 {
-  "arabic": "موسوعي",
+  "term": "موسوعي",
+  "previous_term": "موسوعة",
+  "next_term": "موسع",
   "definition": "موسوعي mausū‘ī encyclopedic"
 }

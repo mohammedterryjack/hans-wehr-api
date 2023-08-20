@@ -1,4 +1,6 @@
 {
-  "arabic": "فرضي",
+  "term": "فرضي",
+  "previous_term": "فرض",
+  "next_term": "فرضية",
   "definition": "فرضي farḍī hypothetic(al), suppositional, conjectural, assumed without proof"
 }

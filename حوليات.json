@@ -1,4 +1,6 @@
 {
-  "arabic": "حوليات",
+  "term": "حوليات",
+  "previous_term": "حولي",
+  "next_term": "حيل",
   "definition": "حوليات ḥaulīyāt yearbook, annals (= Fr. annales, as a scientific publication)"
 }

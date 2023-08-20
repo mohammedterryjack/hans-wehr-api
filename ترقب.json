@@ -1,4 +1,6 @@
 {
-  "arabic": "ترقب",
+  "term": "ترقب",
+  "previous_term": "مراقبة",
+  "next_term": "ارتقاب",
   "definition": "ترقب taraqqub expectation, anticipation"
 }

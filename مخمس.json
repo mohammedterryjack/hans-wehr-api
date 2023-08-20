@@ -1,4 +1,6 @@
 {
-  "arabic": "مخمس",
+  "term": "مخمس",
+  "previous_term": "الخامس",
+  "next_term": "خمش",
   "definition": "مخمس mukammas pentagonal, five-cornered; pentagon; fivefold, quintuple; O pentameter"
 }

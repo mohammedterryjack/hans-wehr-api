@@ -1,4 +1,6 @@
 {
-  "arabic": "متقاعد",
+  "term": "متقاعد",
+  "previous_term": "قاعدة",
+  "next_term": "قعر",
   "definition": "متقاعد mutaqā‘id retired; pensioner"
 }

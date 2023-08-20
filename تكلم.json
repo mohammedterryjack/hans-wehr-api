@@ -1,4 +1,6 @@
 {
-  "arabic": "تكلم",
+  "term": "تكلم",
+  "previous_term": "مكالمة",
+  "next_term": "متكلم",
   "definition": "تكلم takallum speaking; talk, conversation; speech"
 }

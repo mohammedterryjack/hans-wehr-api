@@ -1,4 +1,6 @@
 {
-  "arabic": "كيماويات",
+  "term": "كيماويات",
+  "previous_term": "كيميائي",
+  "next_term": "كين",
   "definition": "كيماويات kīmāwīyāt chemicals"
 }

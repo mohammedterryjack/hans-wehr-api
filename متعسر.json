@@ -1,4 +1,6 @@
 {
-  "arabic": "متعسر",
+  "term": "متعسر",
+  "previous_term": "معسر",
+  "next_term": "عسف",
   "definition": "متعسر muta‘assir hard, difficult, trying, distressing, adverse"
 }

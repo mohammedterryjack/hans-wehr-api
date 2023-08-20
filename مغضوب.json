@@ -1,4 +1,6 @@
 {
-  "arabic": "مغضوب",
+  "term": "مغضوب",
+  "previous_term": "غاضب",
+  "next_term": "غضر",
   "definition": "مغضوب magḍūb: مغضوب عليه object of anger"
 }

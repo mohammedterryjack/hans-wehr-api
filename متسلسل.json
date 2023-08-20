@@ -1,4 +1,6 @@
 {
-  "arabic": "متسلسل",
+  "term": "متسلسل",
+  "previous_term": "مسلسل",
+  "next_term": "سلط",
   "definition": "متسلسل mutasalsil continuous (numbering)"
 }

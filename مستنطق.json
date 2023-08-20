@@ -1,4 +1,6 @@
 {
-  "arabic": "مستنطق",
+  "term": "مستنطق",
+  "previous_term": "منطوق",
+  "next_term": "نطل",
   "definition": "مستنطق mustanṭiq examining magistrate"
 }

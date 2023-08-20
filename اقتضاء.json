@@ -1,4 +1,6 @@
 {
-  "arabic": "اقتضاء",
+  "term": "اقتضاء",
+  "previous_term": "انقضاء",
+  "next_term": "قاض",
   "definition": "اقتضاء iqtiḍā’ necessity, need, exigency, requirement │ عند الاقتضاء in case of need, if need be, when necessary"
 }

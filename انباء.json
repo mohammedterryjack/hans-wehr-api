@@ -1,4 +1,6 @@
 {
-  "arabic": "انباء",
+  "term": "انباء",
+  "previous_term": "نبوءة",
+  "next_term": "تنبؤ",
   "definition": "انباء inbā’ pl. -āt notification, information, communication"
 }

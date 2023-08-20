@@ -1,4 +1,6 @@
 {
-  "arabic": "منفعل",
+  "term": "منفعل",
+  "previous_term": "مفعول",
+  "next_term": "مفتعل",
   "definition": "منفعل munfa‘il excited, agitated, upset; irritable"
 }

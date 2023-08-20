@@ -1,4 +1,6 @@
 {
-  "arabic": "مناقصة",
+  "term": "مناقصة",
+  "previous_term": "تنقيص",
+  "next_term": "انقاص",
   "definition": "مناقصة munāqaṣa pl. -āt competition to determine the lowest bidder, public invitation to submit bide (for public works), notice to bidders; award of contract to the lowest bidder"
 }

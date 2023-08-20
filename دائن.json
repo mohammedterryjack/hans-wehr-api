@@ -1,4 +1,6 @@
 {
-  "arabic": "دائن",
+  "term": "دائن",
+  "previous_term": "استدانة",
+  "next_term": "مديون",
   "definition": "دائن dā’in creditor"
 }

@@ -1,4 +1,6 @@
 {
-  "arabic": "تدريس",
+  "term": "تدريس",
+  "previous_term": "مدرسي",
+  "next_term": "دارس",
   "definition": "تدريس tadrīs teaching, instruction, tuition │هيئة التدريس hai’at at-t. teaching staff; faculty, professoriate (of an academic institution)"
 }

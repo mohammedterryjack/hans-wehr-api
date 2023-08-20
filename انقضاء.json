@@ -1,4 +1,6 @@
 {
-  "arabic": "انقضاء",
+  "term": "انقضاء",
+  "previous_term": "مقاضاة",
+  "next_term": "اقتضاء",
   "definition": "انقضاء inqiḍā’ passing, elapsing, termination, expiry, expiration, end (of a period of time); extinction (of an obligation)"
 }

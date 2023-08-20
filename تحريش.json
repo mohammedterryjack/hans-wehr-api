@@ -1,4 +1,6 @@
 {
-  "arabic": "تحريش",
+  "term": "تحريش",
+  "previous_term": "حرش",
+  "next_term": "تحرش",
   "definition": "تحريش taḥrīš instigation, prodding, incitement, provocation, agitation, incensement"
 }

@@ -1,4 +1,6 @@
 {
-  "arabic": "مثقف",
+  "term": "مثقف",
+  "previous_term": "تثقف",
+  "next_term": "ثقل",
   "definition": "مثقف mutaqqaf educated; trained; cultured"
 }

@@ -1,4 +1,6 @@
 {
-  "arabic": "سعار",
+  "term": "سعار",
+  "previous_term": "سعر",
+  "next_term": "سعير",
   "definition": "سعار su‘ār voracity"
 }

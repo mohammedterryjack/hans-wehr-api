@@ -1,4 +1,6 @@
 {
-  "arabic": "معرب",
+  "term": "معرب",
+  "previous_term": "اعراب",
+  "next_term": "مستعرب",
   "definition": "معرب mu‘arrib translator into Arabic\n\n\nمعرب mu‘arrab Arabicized; translated into Arabic\n\n\nمعرب mu‘rab desinentially inflective (gram.)"
 }

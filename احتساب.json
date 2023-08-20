@@ -1,4 +1,6 @@
 {
-  "arabic": "احتساب",
+  "term": "احتساب",
+  "previous_term": "محاسبة",
+  "next_term": "حاسب",
   "definition": "احتساب iḥtisāb computation; calculation, consideration, reflection; debiting; crediting; valuation; contentedness, satisfaction"
 }

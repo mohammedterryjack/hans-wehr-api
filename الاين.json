@@ -1,4 +1,6 @@
 {
-  "arabic": "الاين",
+  "term": "الاين",
+  "previous_term": "اين",
+  "next_term": "اينما",
   "definition": "الاين al-ainu the where; space (philos.)"
 }

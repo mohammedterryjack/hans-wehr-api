@@ -1,4 +1,6 @@
 {
-  "arabic": "استكتاب",
+  "term": "استكتاب",
+  "previous_term": "اكتتاب",
+  "next_term": "استكتابي",
   "definition": "استكتاب istiktāb dictation"
 }

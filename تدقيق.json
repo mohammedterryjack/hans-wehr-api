@@ -1,4 +1,6 @@
 {
-  "arabic": "تدقيق",
+  "term": "تدقيق",
+  "previous_term": "مدقة",
+  "next_term": "مدقق",
   "definition": "تدقيق tadqīq accuracy, precision, exactness, exactitude بتدقيق exactly, precisely, accurately, minutely"
 }

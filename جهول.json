@@ -1,4 +1,6 @@
 {
-  "arabic": "جهول",
+  "term": "جهول",
+  "previous_term": "جهل",
+  "next_term": "مجهل",
   "definition": "جهول jahūl ignorant; foolish, stupid"
 }

@@ -1,4 +1,6 @@
 {
-  "arabic": "تعلم",
+  "term": "تعلم",
+  "previous_term": "اعلام",
+  "next_term": "استعلام",
   "definition": "تعلم ta‘allum learning, studying, study; education"
 }

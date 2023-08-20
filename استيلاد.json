@@ -1,4 +1,6 @@
 {
-  "arabic": "استيلاد",
+  "term": "استيلاد",
+  "previous_term": "تولد",
+  "next_term": "والد",
   "definition": "استيلاد istilād generation, production"
 }

@@ -1,4 +1,6 @@
 {
-  "arabic": "ساحب",
+  "term": "ساحب",
+  "previous_term": "انسحاب",
+  "next_term": "المسحوب عليه",
   "definition": "ساحب sāḥib drawer (of a bill of exchange)"
 }

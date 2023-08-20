@@ -1,4 +1,6 @@
 {
-  "arabic": "احراز",
+  "term": "احراز",
+  "previous_term": "حريز",
+  "next_term": "احتراز",
   "definition": "احراز iḥrāz acquisition, acquirement, obtainment, attainment, achievement, winning, gaining"
 }

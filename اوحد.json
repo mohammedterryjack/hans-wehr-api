@@ -1,4 +1,6 @@
 {
-  "arabic": "اوحد",
+  "term": "اوحد",
+  "previous_term": "وحيد",
+  "next_term": "توحيد",
   "definition": "اوحد auḥad singular, unique"
 }

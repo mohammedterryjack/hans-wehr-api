@@ -1,4 +1,6 @@
 {
-  "arabic": "معسور",
+  "term": "معسور",
+  "previous_term": "تعسر",
+  "next_term": "معسر",
   "definition": "معسور ma‘sūr (living) in straitened circumstances"
 }

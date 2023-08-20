@@ -1,4 +1,6 @@
 {
-  "arabic": "متواصل",
+  "term": "متواصل",
+  "previous_term": "موصل",
+  "next_term": "متصل",
   "definition": "متواصل mutawāṣil persistent, continued, continuous, continual, unceasing, incessant, uninterrupted"
 }

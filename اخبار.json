@@ -1,4 +1,6 @@
 {
-  "arabic": "اخبار",
+  "term": "اخبار",
+  "previous_term": "مخابرة",
+  "next_term": "اخباري",
   "definition": "اخبار ikbār notification, information, communication, note, message; report; indirect discourse, oratio obliqua (gram.)"
 }

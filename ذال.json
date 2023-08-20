@@ -1,4 +1,6 @@
 {
-  "arabic": "ذال",
+  "term": "ذال",
+  "previous_term": "ذات",
+  "next_term": "ذب",
   "definition": "ذال dāl name of the letter ذ"
 }

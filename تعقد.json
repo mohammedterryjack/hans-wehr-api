@@ -1,4 +1,6 @@
 {
-  "arabic": "تعقد",
+  "term": "تعقد",
+  "previous_term": "تعقيد",
+  "next_term": "انعقاد",
   "definition": "تعقد ta‘aqqud complicatedness, complexity, intricacy"
 }

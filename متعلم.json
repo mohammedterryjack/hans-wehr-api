@@ -1,4 +1,6 @@
 {
-  "arabic": "متعلم",
+  "term": "متعلم",
+  "previous_term": "معلوم",
+  "next_term": "علن",
   "definition": "متعلم muta‘allim apprentice; educated; an educated person"
 }

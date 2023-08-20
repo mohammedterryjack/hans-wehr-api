@@ -1,4 +1,6 @@
 {
-  "arabic": "رسم تخطيطي",
+  "term": "رسم تخطيطي",
+  "previous_term": "تخطيط",
+  "next_term": "مخطوط",
   "definition": "رسم تخطيطي (rasm) rough draft, first sketch, design"
 }

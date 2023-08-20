@@ -1,4 +1,6 @@
 {
-  "arabic": "متكاسل",
+  "term": "متكاسل",
+  "previous_term": "تكاسل",
+  "next_term": "كسم",
   "definition": "متكاسل mutakāsil lazy, sluggish, slothful, indolent"
 }

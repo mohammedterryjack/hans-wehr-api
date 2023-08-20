@@ -1,4 +1,6 @@
 {
-  "arabic": "جنسية",
+  "term": "جنسية",
+  "previous_term": "لاجنسي",
+  "next_term": "تجنيس",
   "definition": "جنسية jinsīya pl. -āt nationality, citizenship"
 }

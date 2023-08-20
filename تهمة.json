@@ -1,4 +1,6 @@
 {
-  "arabic": "تهمة",
+  "term": "تهمة",
+  "previous_term": "وهم",
+  "next_term": "وهمي",
   "definition": "تهمة tuhma accusation, charge; suspicion; insinuation"
 }

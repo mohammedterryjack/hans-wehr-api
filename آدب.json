@@ -1,4 +1,6 @@
 {
-  "arabic": "آدب",
+  "term": "آدب",
+  "previous_term": "تادب",
+  "next_term": "مؤدب",
   "definition": "آدب ādib host"
 }

@@ -1,4 +1,6 @@
 {
-  "arabic": "تثليثى",
+  "term": "تثليثى",
+  "previous_term": "تثليث",
+  "next_term": "مثلث",
   "definition": "تثليثى tatlītī trigonometric(al)"
 }

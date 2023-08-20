@@ -1,4 +1,6 @@
 {
-  "arabic": "دورة",
+  "term": "دورة",
+  "previous_term": "دور",
+  "next_term": "دوري",
   "definition": "دورة daura pl. -āt turn, revolution, gyration, rotation; circulation; cycle; circuit; round, patrol; procession (Chr.); round trip; tour (in general, of an artist or performer); detour; period (O also el.); session (of parliament); course (of instruction) (ir., syr.) │الدورة الدموية (damawīya) blood circulation; الدورة الجوية (jawwīya) air circulation; دورة اجتياز (تجاوز) الرتبة d. ijtiyāz (tajāwuz) ar-rutba officers’ training course (mil., Syr.); دورة زراعية (zirā‘īya) crop rotation; دورة تشريعية (tašrī‘īya) legislative period; دورة الفلك d. al-falak revolution of celestial bodies; دورة التفافية (iltifāfīya) flanking maneuver (mil.); دورة مالية (mālīya) 299 financial period, fiscal year; دورة المياه d. al-miyāh lavatory (with running water), toilet, water closet"
 }

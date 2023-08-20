@@ -1,4 +1,6 @@
 {
-  "arabic": "حدوث",
+  "term": "حدوث",
+  "previous_term": "حديث",
+  "next_term": "حداثة",
   "definition": "حدوث ḥudūt setting in (of a state or condition), occurrence, incidence (of a phenomenon); occurrence, incident, happening"
 }

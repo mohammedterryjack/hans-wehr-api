@@ -1,4 +1,6 @@
 {
-  "arabic": "متحدث",
+  "term": "متحدث",
+  "previous_term": "محدث",
+  "next_term": "مستحدث",
   "definition": "متحدث mutaḥaddit spokesman, speaker"
 }

@@ -1,4 +1,6 @@
 {
-  "arabic": "تفرق",
+  "term": "تفرق",
+  "previous_term": "فراق",
+  "next_term": "افتراق",
   "definition": "تفرق tafarruq separation, disunion, division; dispersing, dispersal, scattering; deployment (in the field; mil.)"
 }

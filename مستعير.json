@@ -1,4 +1,6 @@
 {
-  "arabic": "مستعير",
+  "term": "مستعير",
+  "previous_term": "معار",
+  "next_term": "مستعار",
   "definition": "مستعير musta‘īr borrower"
 }

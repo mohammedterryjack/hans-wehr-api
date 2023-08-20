@@ -1,4 +1,6 @@
 {
-  "arabic": "خطورة",
+  "term": "خطورة",
+  "previous_term": "خطير",
+  "next_term": "خطران",
   "definition": "خطورة kuṭūra weight(iness), importance, moment(ousness); consequence, significance; gravity, seriousness"
 }

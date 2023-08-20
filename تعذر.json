@@ -1,4 +1,6 @@
 {
-  "arabic": "تعذر",
+  "term": "تعذر",
+  "previous_term": "معذار",
+  "next_term": "اعتذار",
   "definition": "تعذر ta‘addur difficulty, impossibility, impracticability, unfeasibility"
 }

@@ -1,4 +1,6 @@
 {
-  "arabic": "متفرج",
+  "term": "متفرج",
+  "previous_term": "انفراج",
+  "next_term": "منفرج",
   "definition": "متفرج mutafarrij pl. -ūn viewer, watcher, observer, spectator, onlooker"
 }

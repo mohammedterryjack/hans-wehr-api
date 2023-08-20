@@ -1,4 +1,6 @@
 {
-  "arabic": "متوقف",
+  "term": "متوقف",
+  "previous_term": "موقوف",
+  "next_term": "وقل",
   "definition": "متوقف mutawaqqif dependent, conditional (على on)"
 }

@@ -1,4 +1,6 @@
 {
-  "arabic": "مسلوب",
+  "term": "مسلوب",
+  "previous_term": "سالب",
+  "next_term": "سلبند",
   "definition": "مسلوب maslūb unsuccessful"
 }

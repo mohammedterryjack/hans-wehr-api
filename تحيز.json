@@ -1,4 +1,6 @@
 {
-  "arabic": "تحيز",
+  "term": "تحيز",
+  "previous_term": "حيازة",
+  "next_term": "انحياز",
   "definition": "تحيز taḥayyuz partiality; prejudice, bias"
 }

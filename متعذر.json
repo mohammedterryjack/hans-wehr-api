@@ -1,4 +1,6 @@
 {
-  "arabic": "متعذر",
+  "term": "متعذر",
+  "previous_term": "معذور",
+  "next_term": "عذق",
   "definition": "متعذر muta‘addir difficult, impossible, impracticable, unfeasible"
 }

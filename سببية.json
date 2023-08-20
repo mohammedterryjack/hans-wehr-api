@@ -1,4 +1,6 @@
 {
-  "arabic": "سببية",
+  "term": "سببية",
+  "previous_term": "سبب",
+  "next_term": "سباب",
   "definition": "سببية sababīya causality"
 }

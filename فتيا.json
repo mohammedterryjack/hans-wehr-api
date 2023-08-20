@@ -1,4 +1,6 @@
 {
-  "arabic": "فتيا",
+  "term": "فتيا",
+  "previous_term": "فتوى",
+  "next_term": "فتوة",
   "definition": "فتيا futyā formal legal opinion (Isl. Law)"
 }

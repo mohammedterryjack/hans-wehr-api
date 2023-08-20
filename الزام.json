@@ -1,4 +1,6 @@
 {
-  "arabic": "الزام",
+  "term": "الزام",
+  "previous_term": "ملازمة",
+  "next_term": "الزامي",
   "definition": "الزام ilzām coercion, compulsion"
 }

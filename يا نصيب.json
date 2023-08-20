@@ -1,4 +1,6 @@
 {
-  "arabic": "يا نصيب",
+  "term": "يا نصيب",
+  "previous_term": "نصيب",
+  "next_term": "منصب",
   "definition": "يا نصيب yā-naṣīb lottery"
 }

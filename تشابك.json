@@ -1,4 +1,6 @@
 {
-  "arabic": "تشابك",
+  "term": "تشابك",
+  "previous_term": "مشبك",
+  "next_term": "اشتباك",
   "definition": "تشابك tašābuk confusion, intricacy, obscurity, abstruseness"
 }

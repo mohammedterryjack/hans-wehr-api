@@ -1,4 +1,6 @@
 {
-  "arabic": "رياضات",
+  "term": "رياضات",
+  "previous_term": "رياضي",
+  "next_term": "ترويض",
   "definition": "رياضات riyāḍīyāt mathematics"
 }

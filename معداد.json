@@ -1,4 +1,6 @@
 {
-  "arabic": "معداد",
+  "term": "معداد",
+  "previous_term": "عداد",
+  "next_term": "تعداد",
   "definition": "معداد mi‘dād pl. معاديد ma’ādīd2 abacus"
 }

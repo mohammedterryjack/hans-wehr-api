@@ -1,4 +1,6 @@
 {
-  "arabic": "متحتم",
+  "term": "متحتم",
+  "previous_term": "محتم",
+  "next_term": "حث",
   "definition": "متحتم mutaḥattim absolutely necessary; imperative (duty)"
 }

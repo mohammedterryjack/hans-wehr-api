@@ -1,4 +1,6 @@
 {
-  "arabic": "تعسر",
+  "term": "تعسر",
+  "previous_term": "اعسار",
+  "next_term": "معسور",
   "definition": "تعسر ta‘assur difficulty"
 }

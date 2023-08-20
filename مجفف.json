@@ -1,4 +1,6 @@
 {
-  "arabic": "مجفف",
+  "term": "مجفف",
+  "previous_term": "جاف",
+  "next_term": "جفاء",
   "definition": "مجفف mujaffaf dried, desiccated, dehydrated; مجففات dehydrated foods"
 }

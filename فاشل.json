@@ -1,4 +1,6 @@
 {
-  "arabic": "فاشل",
+  "term": "فاشل",
+  "previous_term": "فشل",
+  "next_term": "فشو",
   "definition": "فاشل fāšil failing, unsuccessful, futile, doomed to failure; no good, worthless"
 }

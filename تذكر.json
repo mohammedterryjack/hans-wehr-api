@@ -1,4 +1,6 @@
 {
-  "arabic": "تذكر",
+  "term": "تذكر",
+  "previous_term": "مذاكرة",
+  "next_term": "استذكار",
   "definition": "تذكر tadakkur memory, remembrance, recollection"
 }

@@ -1,4 +1,6 @@
 {
-  "arabic": "حاكمية",
+  "term": "حاكمية",
+  "previous_term": "حاكم",
+  "next_term": "محكوم عليه",
   "definition": "حاكمية ḥākimīya domination, dominion, rule, sovereignty; judgeship, judicature, jurisdiction (ir.)"
 }

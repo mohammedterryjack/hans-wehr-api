@@ -1,4 +1,6 @@
 {
-  "arabic": "مردود",
+  "term": "مردود",
+  "previous_term": "استرداد",
+  "next_term": "مرتد",
   "definition": "مردود mardūd yield, return(s)"
 }

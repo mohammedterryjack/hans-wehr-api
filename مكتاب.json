@@ -1,4 +1,6 @@
 {
-  "arabic": "مكتاب",
+  "term": "مكتاب",
+  "previous_term": "مكتبة",
+  "next_term": "مكاتبة",
   "definition": "مكتاب miktāb typewriter"
 }

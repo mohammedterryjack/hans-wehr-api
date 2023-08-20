@@ -1,4 +1,6 @@
 {
-  "arabic": "مديون",
+  "term": "مديون",
+  "previous_term": "دائن",
+  "next_term": "مديونية",
   "definition": "مديون madyūn indebted, in debt: obligated, under obligation 305"
 }

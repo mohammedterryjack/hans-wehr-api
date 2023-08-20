@@ -1,4 +1,6 @@
 {
-  "arabic": "ذنيب",
+  "term": "ذنيب",
+  "previous_term": "ذنبي",
+  "next_term": "مذنب",
   "definition": "ذنيب dunaib petiole, leafstalk (bot.)"
 }

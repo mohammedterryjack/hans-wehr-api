@@ -1,4 +1,6 @@
 {
-  "arabic": "متار",
+  "term": "متار",
+  "previous_term": "تيار",
+  "next_term": "تيزة",
   "definition": "متار matār (Byr.) dynamo, generator"
 }

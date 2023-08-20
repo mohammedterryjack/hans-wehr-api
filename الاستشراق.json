@@ -1,4 +1,6 @@
 {
-  "arabic": "الاستشراق",
+  "term": "الاستشراق",
+  "previous_term": "الاشراقيون",
+  "next_term": "مستشرق",
   "definition": "الاستشراق al-istišrāq oriental studies"
 }

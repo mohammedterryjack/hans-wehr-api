@@ -1,4 +1,6 @@
 {
-  "arabic": "منبض",
+  "term": "منبض",
+  "previous_term": "نابض",
+  "next_term": "نبط",
   "definition": "منبض manbiḍ spot where the pulse or heartbeat is felt"
 }

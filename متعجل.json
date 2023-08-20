@@ -1,4 +1,6 @@
 {
-  "arabic": "متعجل",
+  "term": "متعجل",
+  "previous_term": "دفع معجل",
+  "next_term": "مستعجل",
   "definition": "متعجل muta‘ajjil hasty, rash, precipitate"
 }

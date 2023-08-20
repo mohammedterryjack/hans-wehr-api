@@ -1,4 +1,6 @@
 {
-  "arabic": "توارث",
+  "term": "توارث",
+  "previous_term": "ميراث",
+  "next_term": "وارث",
   "definition": "توارث tawārut transmission by inheritance; heredity"
 }

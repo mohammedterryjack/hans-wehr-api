@@ -1,4 +1,6 @@
 {
-  "arabic": "اجارة",
+  "term": "اجارة",
+  "previous_term": "ايجار",
+  "next_term": "استئجار",
   "definition": "اجارة ijāra pl. -āt rent; letting, leasing, hiring out, letting on lease"
 }

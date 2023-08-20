@@ -1,4 +1,6 @@
 {
-  "arabic": "رقيم",
+  "term": "رقيم",
+  "previous_term": "رقم",
+  "next_term": "مرقم",
   "definition": "رقيم raqīm inscription tablet; letter, message"
 }

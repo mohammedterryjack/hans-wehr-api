@@ -1,4 +1,6 @@
 {
-  "arabic": "خسوف",
+  "term": "خسوف",
+  "previous_term": "خسف",
+  "next_term": "خش",
   "definition": "خسوف kusūf occultation (astron.); lunar eclipse"
 }

@@ -1,4 +1,6 @@
 {
-  "arabic": "محاكمة",
+  "term": "محاكمة",
+  "previous_term": "تحكيم",
+  "next_term": "احكام",
   "definition": "محاكمة muḥākama judicial proceeding; trial, hearing (in court); legal prosecution"
 }

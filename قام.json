@@ -1,4 +1,6 @@
 {
-  "arabic": "قام",
+  "term": "قام",
+  "previous_term": "اقتسام",
+  "next_term": "مقسوم",
   "definition": "قام qāsim divider; distributor; divisor, denominator (math.)"
 }

@@ -1,4 +1,6 @@
 {
-  "arabic": "جراحة",
+  "term": "جراحة",
+  "previous_term": "جراح",
+  "next_term": "جراحى",
   "definition": "جراحة jirāḥa surgery"
 }

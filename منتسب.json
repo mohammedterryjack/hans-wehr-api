@@ -1,4 +1,6 @@
 {
-  "arabic": "منتسب",
+  "term": "منتسب",
+  "previous_term": "متناسب",
+  "next_term": "نسج",
   "definition": "منتسب muntasib member, affiliate │ عضو منتسب (‘uḍw) associate (e.g., of an academy)"
 }

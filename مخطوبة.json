@@ -1,4 +1,6 @@
 {
-  "arabic": "مخطوبة",
+  "term": "مخطوبة",
+  "previous_term": "خاطبة",
+  "next_term": "مخاطب",
   "definition": "مخطوبة makṭūba fiancée"
 }

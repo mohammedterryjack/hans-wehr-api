@@ -1,4 +1,6 @@
 {
-  "arabic": "متعجب",
+  "term": "متعجب",
+  "previous_term": "معجب",
+  "next_term": "عجر",
   "definition": "متعجب muta‘ajjib amazed, astonished"
 }

@@ -1,4 +1,6 @@
 {
-  "arabic": "الصحابة",
+  "term": "الصحابة",
+  "previous_term": "صحبة",
+  "next_term": "صحابي",
   "definition": "الصحابة aṣ-ṣaḥāba the Companions of the Prophet Mohammed"
 }

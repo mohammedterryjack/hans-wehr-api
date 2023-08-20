@@ -1,4 +1,6 @@
 {
-  "arabic": "حاسب",
+  "term": "حاسب",
+  "previous_term": "احتساب",
+  "next_term": "محسوب",
   "definition": "حاسب ḥāsib counter, reckoner, arithmetician, calculator, computer"
 }

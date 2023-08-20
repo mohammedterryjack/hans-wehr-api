@@ -1,4 +1,6 @@
 {
-  "arabic": "مضعف",
+  "term": "مضعف",
+  "previous_term": "تضاعف",
+  "next_term": "مضاعف",
   "definition": "مضعف muḍa‘‘af twofold, double; multiplied, compounded, increased many times"
 }

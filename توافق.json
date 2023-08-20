@@ -1,4 +1,6 @@
 {
-  "arabic": "توافق",
+  "term": "توافق",
+  "previous_term": "موافقة",
+  "next_term": "اتفاق",
   "definition": "توافق tawāfuq coincidence, congruence, congruity; agreement, conformity, conformance"
 }

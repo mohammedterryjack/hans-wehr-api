@@ -1,4 +1,6 @@
 {
-  "arabic": "قضوية الصلح",
+  "term": "قضوية الصلح",
+  "previous_term": "قضائي",
+  "next_term": "قضية",
   "definition": "قضوية الصلح qaḍawīyat aṣ-ṣulḥ jurisdiction of a justice of the peace"
 }

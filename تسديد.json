@@ -1,4 +1,6 @@
 {
-  "arabic": "تسديد",
+  "term": "تسديد",
+  "previous_term": "سديد",
+  "next_term": "ساد",
   "definition": "تسديد tasdīd payment, defrayment, settlement, discharge, liquidation │تحت التسديد outstanding, due, unpaid (com.)"
 }

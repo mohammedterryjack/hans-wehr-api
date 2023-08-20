@@ -1,4 +1,6 @@
 {
-  "arabic": "مفلسف",
+  "term": "مفلسف",
+  "previous_term": "فيلسوف",
+  "next_term": "متفلسف",
   "definition": "مفلسف mufalsif pl. -ūn philosopher"
 }

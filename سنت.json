@@ -1,4 +1,6 @@
 {
-  "arabic": "سنت",
+  "term": "سنت",
+  "previous_term": "سنبوسك",
+  "next_term": "سنتمتر",
   "definition": "سنت cent"
 }

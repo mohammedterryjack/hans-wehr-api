@@ -1,4 +1,6 @@
 {
-  "arabic": "مسبقا",
+  "term": "مسبقا",
+  "previous_term": "غير مسبوق",
+  "next_term": "مسابق",
   "definition": "مسبقا musabbaqan prematurely, in advance"
 }

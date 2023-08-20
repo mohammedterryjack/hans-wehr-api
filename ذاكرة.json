@@ -1,4 +1,6 @@
 {
-  "arabic": "ذاكرة",
+  "term": "ذاكرة",
+  "previous_term": "استذكار",
+  "next_term": "مذكور",
   "definition": "ذاكرة dākira memory"
 }

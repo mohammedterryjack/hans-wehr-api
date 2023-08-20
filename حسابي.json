@@ -1,4 +1,6 @@
 {
-  "arabic": "حسابي",
+  "term": "حسابي",
+  "previous_term": "حساب",
+  "next_term": "محاسبة",
   "definition": "حسابي ḥisābī arithmetical, mathematical, computational"
 }

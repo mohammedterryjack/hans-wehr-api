@@ -1,4 +1,6 @@
 {
-  "arabic": "حضري",
+  "term": "حضري",
+  "previous_term": "حضر",
+  "next_term": "حضرة",
   "definition": "حضري ḥaḍarī settled, sedentary, resident, not nomadic, non-Bedouin, like urbanites; civilized; urban; town dweller"
 }

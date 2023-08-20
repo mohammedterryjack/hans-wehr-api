@@ -1,4 +1,6 @@
 {
-  "arabic": "منقوص",
+  "term": "منقوص",
+  "previous_term": "ناقص",
+  "next_term": "نقض",
   "definition": "منقوص manqūṣ deficient, incomplete; insufficient, inadequate"
 }

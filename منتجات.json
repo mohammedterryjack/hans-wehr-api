@@ -1,4 +1,6 @@
 {
-  "arabic": "منتجات",
+  "term": "منتجات",
+  "previous_term": "منتج",
+  "next_term": "مستنتج",
   "definition": "منتجات muntajāt proceeds, returns, yields, products │ منتجات زراعية (zirā‘īya) agricultural products, farming products, produce"
 }

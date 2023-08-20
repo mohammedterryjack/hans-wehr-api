@@ -1,4 +1,6 @@
 {
-  "arabic": "استدانة",
+  "term": "استدانة",
+  "previous_term": "ادانة",
+  "next_term": "دائن",
   "definition": "استدانة istidāna incurrence of debts"
 }

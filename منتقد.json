@@ -1,4 +1,6 @@
 {
-  "arabic": "منتقد",
+  "term": "منتقد",
+  "previous_term": "ناقد",
+  "next_term": "نقذ",
   "definition": "منتقد muntaqid critic\n\n\nمنتقد muntaqad blameworthy, reprehensible, objectionable, exceptionable"
 }

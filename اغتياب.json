@@ -1,4 +1,6 @@
 {
-  "arabic": "اغتياب",
+  "term": "اغتياب",
+  "previous_term": "تغيب",
+  "next_term": "غائب",
   "definition": "اغتياب igtiyāb slander, calumniation, defamation; gossip about (genit.)"
 }

@@ -1,4 +1,6 @@
 {
-  "arabic": "تعطيب",
+  "term": "تعطيب",
+  "previous_term": "عطب",
+  "next_term": "تعطب",
   "definition": "تعطيب ta‘ṭīb damaging, ruin(ing), wreck, destruction"
 }

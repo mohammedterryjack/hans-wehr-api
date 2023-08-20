@@ -1,4 +1,6 @@
 {
-  "arabic": "تسعير",
+  "term": "تسعير",
+  "previous_term": "مسعار",
+  "next_term": "تسعيرة",
   "definition": "تسعير tas‘īr pricing, price fixing"
 }

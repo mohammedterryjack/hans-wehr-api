@@ -1,4 +1,6 @@
 {
-  "arabic": "السفر",
+  "term": "السفر",
+  "previous_term": "سفر",
+  "next_term": "سفرة",
   "definition": "السفر as-sifr the travelers, the passengers"
 }

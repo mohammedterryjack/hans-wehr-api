@@ -1,4 +1,6 @@
 {
-  "arabic": "معجل",
+  "term": "معجل",
+  "previous_term": "عاجلة",
+  "next_term": "دفع معجل",
   "definition": "معجل mu‘ajjal urgent, pressing; premature │ معجل الرسم m. ar-rasm prepaid, postpaid (mail item); حكم بالنفاذ المعجل (ḥukm, nafād) summary judgment, sentence by summary proceedings (jur.)"
 }

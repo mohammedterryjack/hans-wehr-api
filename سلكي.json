@@ -1,4 +1,6 @@
 {
-  "arabic": "سلكي",
+  "term": "سلكي",
+  "previous_term": "سلك",
+  "next_term": "لاسلكي",
   "definition": "سلكي silkī by wire, wire (adj.)"
 }

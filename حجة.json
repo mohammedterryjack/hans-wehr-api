@@ -1,4 +1,6 @@
 {
-  "arabic": "حجة",
+  "term": "حجة",
+  "previous_term": "حج",
+  "next_term": "حجاج",
   "definition": "حجة ḥujja pl. حجج ḥūjaj argument; pretense, pretext, plea; proof, evidence; document, writ, deed, record; authority │بحجة ان under the pretense that …, on the plea … on the pretext of …"
 }

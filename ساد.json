@@ -1,4 +1,6 @@
 {
-  "arabic": "ساد",
+  "term": "ساد",
+  "previous_term": "تسديد",
+  "next_term": "مسدود",
   "definition": "ساد sādd obstructive"
 }

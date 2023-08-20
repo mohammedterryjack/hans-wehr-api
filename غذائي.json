@@ -1,4 +1,6 @@
 {
-  "arabic": "غذائي",
+  "term": "غذائي",
+  "previous_term": "غذاء",
+  "next_term": "تغذية",
   "definition": "غذائي gidā’ī alimental, alimentary, nutritional, nutritious, nutritive │ مواد غذائية (mawādd) foodstuffs, victuals, food, nutritive substances"
 }

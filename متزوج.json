@@ -1,4 +1,6 @@
 {
-  "arabic": "متزوج",
+  "term": "متزوج",
+  "previous_term": "ازدواج",
+  "next_term": "مزدوج",
   "definition": "متزوج mutazawwij married"
 }

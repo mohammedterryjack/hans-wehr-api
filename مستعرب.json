@@ -1,4 +1,6 @@
 {
-  "arabic": "مستعرب",
+  "term": "مستعرب",
+  "previous_term": "معرب",
+  "next_term": "عربد",
   "definition": "مستعرب musta‘rib Arabist"
 }

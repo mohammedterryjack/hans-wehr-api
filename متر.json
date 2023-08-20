@@ -1,4 +1,6 @@
 {
-  "arabic": "متر",
+  "term": "متر",
+  "previous_term": "متح",
+  "next_term": "متري",
   "definition": "متر mitr pl. امتار amtār meter (measure of length)"
 }

@@ -1,4 +1,6 @@
 {
-  "arabic": "جرعة",
+  "term": "جرعة",
+  "previous_term": "جرع",
+  "next_term": "جرف",
   "definition": "جرعة jur‘a, jar‘a pl. جرع jura‘, -āt gulp, mouthful, draught; potion, dose (med.)"
 }

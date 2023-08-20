@@ -1,4 +1,6 @@
 {
-  "arabic": "مسكون",
+  "term": "مسكون",
+  "previous_term": "ساكن",
+  "next_term": "المسكونة",
   "definition": "مسكون maskūn populated, inhabited; haunted (place); possessed (person) │ الدار مسكونة the house is haunted"
 }

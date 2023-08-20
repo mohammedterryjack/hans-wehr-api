@@ -1,4 +1,6 @@
 {
-  "arabic": "صباحي",
+  "term": "صباحي",
+  "previous_term": "صباح",
+  "next_term": "صبيح",
   "definition": "صباحي ṣabāḥī morning (adj.)"
 }

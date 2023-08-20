@@ -1,4 +1,6 @@
 {
-  "arabic": "استقراض",
+  "term": "استقراض",
+  "previous_term": "اقتراض",
+  "next_term": "القوارض",
   "definition": "استقراض istiqrāḍ raising of a loan; loan"
 }

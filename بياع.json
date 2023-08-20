@@ -1,4 +1,6 @@
 {
-  "arabic": "بياع",
+  "term": "بياع",
+  "previous_term": "بيعة",
+  "next_term": "مبيع",
   "definition": "بياع bayyā‘ salesman, merchant, dealer, commission agent, middleman"
 }

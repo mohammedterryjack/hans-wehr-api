@@ -1,4 +1,6 @@
 {
-  "arabic": "فولت",
+  "term": "فولت",
+  "previous_term": "فولاذي",
+  "next_term": "فوم",
   "definition": "فولت volt volt (el.)"
 }

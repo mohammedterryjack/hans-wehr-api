@@ -1,4 +1,6 @@
 {
-  "arabic": "متحصل",
+  "term": "متحصل",
+  "previous_term": "محصول",
+  "next_term": "حصن",
   "definition": "متحصل mutaḥaṣṣil yield, revenue, proceeds, receipts, returns (من from)"
 }

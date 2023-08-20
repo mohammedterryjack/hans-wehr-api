@@ -1,4 +1,6 @@
 {
-  "arabic": "تصويت",
+  "term": "تصويت",
+  "previous_term": "مصوات",
+  "next_term": "صائت",
   "definition": "تصويت taṣwīt voting, vote, casting of ballots, polling (election)"
 }

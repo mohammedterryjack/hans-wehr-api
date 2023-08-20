@@ -1,4 +1,6 @@
 {
-  "arabic": "استياء",
+  "term": "استياء",
+  "previous_term": "اساءة",
+  "next_term": "مسيء",
   "definition": "استياء istiyā’ dissatisfaction, discontent, indignation, displeasure, annoyance, vexation"
 }

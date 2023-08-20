@@ -1,4 +1,6 @@
 {
-  "arabic": "مملك",
+  "term": "مملك",
+  "previous_term": "مملوك",
+  "next_term": "ممتلك",
   "definition": "مملك mumallik assignor, transferor, conveyer, alienator"
 }

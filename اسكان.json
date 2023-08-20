@@ -1,4 +1,6 @@
 {
-  "arabic": "اسكان",
+  "term": "اسكان",
+  "previous_term": "تسكين",
+  "next_term": "ساكن",
   "definition": "اسكان settling, settlement; allocation of living quarters"
 }

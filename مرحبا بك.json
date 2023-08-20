@@ -1,4 +1,6 @@
 {
-  "arabic": "مرحبا بك",
+  "term": "مرحبا بك",
+  "previous_term": "رحابة",
+  "next_term": "ترحاب",
   "definition": "مرحبا بك marḥaban bika welcome!"
 }

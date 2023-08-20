@@ -1,4 +1,6 @@
 {
-  "arabic": "حارق",
+  "term": "حارق",
+  "previous_term": "احتراق",
+  "next_term": "محروق",
   "definition": "حارق ḥāriq arsonist, incendiary"
 }

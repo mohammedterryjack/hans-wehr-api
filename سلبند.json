@@ -1,4 +1,6 @@
 {
-  "arabic": "سلبند",
+  "term": "سلبند",
+  "previous_term": "مسلوب",
+  "next_term": "سلت",
   "definition": "سلبند salaband martingale (of the harness)"
 }

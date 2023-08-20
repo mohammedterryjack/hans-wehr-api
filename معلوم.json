@@ -1,4 +1,6 @@
 {
-  "arabic": "معلوم",
+  "term": "معلوم",
+  "previous_term": "اعلم",
+  "next_term": "متعلم",
   "definition": "معلوم ma‘lūm known; fixed, determined, given; of course! certainly! sure! no doubt! (as an affirmative reply); known quantity (math.); المعلوم the active voice (gram.); -- (pl. معاليم ma‘ālim) fixed sum, fixed rate (money); fixed income; tax, duty; fee; sum, amount, cost(s) │ معلوم الحيوانات m. al-ḥayawānāt impost on livestock (Tun.); -- pl. معلومات ma‘lūmāt knowledge, lore, learning, perceptions, discoveries, findings; known facts; information, data; news, tidings"
 }

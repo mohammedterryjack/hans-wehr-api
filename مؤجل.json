@@ -1,4 +1,6 @@
 {
-  "arabic": "مؤجل",
+  "term": "مؤجل",
+  "previous_term": "الآجلة",
+  "next_term": "اجمة",
   "definition": "مؤجل mu’ajjal delayed, late, postponed, deferred; fixed in time, deadlined"
 }

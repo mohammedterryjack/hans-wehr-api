@@ -1,4 +1,6 @@
 {
-  "arabic": "كيميائي",
+  "term": "كيميائي",
+  "previous_term": "كيمي",
+  "next_term": "كيماويات",
   "definition": "كيميائي kīmiyā’ī, كيماوي kīmāwī chemical; -- (pl. -ūn) chemist; alchemist;"
 }

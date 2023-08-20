@@ -1,4 +1,6 @@
 {
-  "arabic": "هندسة",
+  "term": "هندسة",
+  "previous_term": "هندازة",
+  "next_term": "هندسي",
   "definition": "هندسة handasa engineering; mechanical engineering; architecture, architectural engineering; army engineering; geometry; geodesy, surveying │ علم الهندسة ‘ilm al-h. geometry; هندسة الري h. ar-riyy irrigation engineering; الهندسة الزراعية (zirā‘īya) agronomy; الهندسة السطحية (saṭḥīya) plane geometry, planimetry; الهندسة الفراغية (farāgīya) solid geometry, stereometry; هندسة المدن h. al-mudun town planning; الهندسة المعمارية (mi‘mārīya) architecture; هندسة الميدان h. al-maidān combat engineering; الهندسة الكهربائية (kahrabā’īya) electrotechnics, electrical engineering; هندسة اللاسلكي h. al-lā-silkī radio engineering; الهندسة المدنية (madanīya) civil engineering; الهندسة الميكانيكية mechanical engineering"
 }

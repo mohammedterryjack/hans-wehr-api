@@ -1,4 +1,6 @@
 {
-  "arabic": "نوتة",
+  "term": "نوتة",
+  "previous_term": "نوت",
+  "next_term": "نوتي",
   "definition": "نوتة nōta note, remark"
 }

@@ -1,4 +1,6 @@
 {
-  "arabic": "مسلح",
+  "term": "مسلح",
+  "previous_term": "تسلح",
+  "next_term": "سلحفاء",
   "definition": "مسلح musalliḥ armorer"
 }

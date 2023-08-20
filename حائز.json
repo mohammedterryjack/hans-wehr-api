@@ -1,4 +1,6 @@
 {
-  "arabic": "حائز",
+  "term": "حائز",
+  "previous_term": "انحياز",
+  "next_term": "متحيز",
   "definition": "حائز ḥā’iz possessor, holder, tenant"
 }

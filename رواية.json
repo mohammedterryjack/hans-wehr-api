@@ -1,4 +1,6 @@
 {
-  "arabic": "رواية",
+  "term": "رواية",
+  "previous_term": "روية",
+  "next_term": "روائي",
   "definition": "رواية riwāya pl. -āt tale, narrative; report, account; story; novel; play, drama; motion picture, film │ رواية محزنة(muḥzina) tragedy; رواية مسرحية (masraḥīya) play, stage play; رواية سينمائية motion 369 picture, film; رواية مضحكة (muḍḥika) comedy; رواية غنائية (ginā’īya) opera; رواية قصصية (qiṣaṣīya, qaṣaṣīya) novel; رواية تمثيلية (tamtīlīya) play, drama; رواية ناطقة sound film; رواية هزلية (hazlīya) comedy"
 }

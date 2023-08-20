@@ -1,4 +1,6 @@
 {
-  "arabic": "تعقيم",
+  "term": "تعقيم",
+  "previous_term": "عقيم",
+  "next_term": "معقم",
   "definition": "تعقيم ta‘qīm sterilization, degermination, pasteurization; disinfection"
 }

@@ -1,4 +1,6 @@
 {
-  "arabic": "الحروف الشجرية",
+  "term": "الحروف الشجرية",
+  "previous_term": "شجر",
+  "next_term": "شجرة",
   "definition": "الحروف الشجرية al-ḥurūf aš-šajrīya the sounds j, š, ḍ (phon.)"
 }

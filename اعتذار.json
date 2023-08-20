@@ -1,4 +1,6 @@
 {
-  "arabic": "اعتذار",
+  "term": "اعتذار",
+  "previous_term": "تعذر",
+  "next_term": "معذور",
   "definition": "اعتذار i‘tidār apology, excuse, plea"
 }

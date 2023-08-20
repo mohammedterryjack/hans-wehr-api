@@ -1,4 +1,6 @@
 {
-  "arabic": "افلاس",
+  "term": "افلاس",
+  "previous_term": "تفليس",
+  "next_term": "مفلس",
   "definition": "افلاس iflās bankruptcy, insolvency, failure"
 }

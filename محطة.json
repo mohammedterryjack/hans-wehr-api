@@ -1,4 +1,6 @@
 {
-  "arabic": "محطة",
+  "term": "محطة",
+  "previous_term": "محط",
+  "next_term": "انحطاط",
   "definition": "محطة maḥaṭṭa pl. -āt stopping place, stop (also of public conveyances); station, post; railroad station; broadcasting station, radio station │ محطة تحويل التيار m. taḥwīl at-tayyār transformer station; محطة الاذاعة (اللاسلكية) m. al-idā‘a (al-lāsi1kīya) broadcasting station, radio station; transmitter (station); محطة رئيسية (ra’īsīya) (railroad) main station; O محطة الاشارات m. al-išārāt signal post; O محطة الارسال m. al-irsāl transmitter (station; radio); محطة للارصاد الجوية (li-l-arṣād al-jawwīya) meteorological station, weather station; محطة الصرف m. aṣ-ṣarf (Eg.) pump station (for drainage); power plant; O محطة الاستقبال receiving station (radio); O محطة لاسلكية قصيرة الأمواج (lā-silkīya qaṣīrat al-amwāj) short-wave transmitter station; محطة توليد الكهرباء m. taulīd al-kahrabā’ and محطة كهربائية power plant"
 }

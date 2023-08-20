@@ -1,4 +1,6 @@
 {
-  "arabic": "كغم",
+  "term": "كغم",
+  "previous_term": "كعم",
+  "next_term": "كف",
   "definition": "كغم abbreviation of كيلوغرام kīlogrām kilogram"
 }

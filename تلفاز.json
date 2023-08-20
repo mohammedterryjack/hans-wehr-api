@@ -1,4 +1,6 @@
 {
-  "arabic": "تلفاز",
+  "term": "تلفاز",
+  "previous_term": "اذاعة تلفازية",
+  "next_term": "تلفزيون",
   "definition": "تلفاز tilfāz television set"
 }

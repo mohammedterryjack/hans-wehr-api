@@ -1,4 +1,6 @@
 {
-  "arabic": "والدي",
+  "term": "والدي",
+  "previous_term": "والدة",
+  "next_term": "مولود",
   "definition": "والدي wālidī paternal"
 }

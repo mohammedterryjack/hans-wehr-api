@@ -1,4 +1,6 @@
 {
-  "arabic": "مؤمن",
+  "term": "مؤمن",
+  "previous_term": "مؤمن عليه",
+  "next_term": "مؤتمن",
   "definition": "مؤمن mu’min believing, faithful; believer"
 }

@@ -1,4 +1,6 @@
 {
-  "arabic": "شفري",
+  "term": "شفري",
+  "previous_term": "مشفر",
+  "next_term": "شفشف",
   "definition": "شفري šifrī ciphered, coded, in code"
 }

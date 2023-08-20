@@ -1,4 +1,6 @@
 {
-  "arabic": "تلفن",
+  "term": "تلفن",
+  "previous_term": "تلفزيون",
+  "next_term": "تلفون",
   "definition": "تلفن talfana to telephone"
 }

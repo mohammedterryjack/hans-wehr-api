@@ -1,4 +1,6 @@
 {
-  "arabic": "موجوب",
+  "term": "موجوب",
+  "previous_term": "واجب",
+  "next_term": "موجب",
   "definition": "موجوب maujūb moral obligation, dictate, injunction"
 }

@@ -1,4 +1,6 @@
 {
-  "arabic": "ميراث",
+  "term": "ميراث",
+  "previous_term": "وريث",
+  "next_term": "توارث",
   "definition": "ميراث mīrāt pl. مواريث mawārīt2 heritage, inheritance, legacy, estate"
 }

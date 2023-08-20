@@ -1,4 +1,6 @@
 {
-  "arabic": "شواعر",
+  "term": "شواعر",
+  "previous_term": "شاعرية",
+  "next_term": "مشعور",
   "definition": "شواعر šawā‘ir attacks, diatribes, invectives, calumnies, defamations"
 }

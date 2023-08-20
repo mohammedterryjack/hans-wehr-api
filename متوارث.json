@@ -1,4 +1,6 @@
 {
-  "arabic": "متوارث",
+  "term": "متوارث",
+  "previous_term": "مورث",
+  "next_term": "ورد",
   "definition": "متوارث mutawārat inherited"
 }

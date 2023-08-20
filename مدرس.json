@@ -1,4 +1,6 @@
 {
-  "arabic": "مدرس",
+  "term": "مدرس",
+  "previous_term": "دارس",
+  "next_term": "درع",
   "definition": "مدرس mudarris pl. -ūn teacher, instructor; lecturer │مدرس مساعد (musā‘id) assistant professor"
 }

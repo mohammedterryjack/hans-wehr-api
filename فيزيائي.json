@@ -1,4 +1,6 @@
 {
-  "arabic": "فيزيائي",
+  "term": "فيزيائي",
+  "previous_term": "فيزياء",
+  "next_term": "فيسيولوجيا",
   "definition": "فيزيائي fīziyā’ī physical"
 }

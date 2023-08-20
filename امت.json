@@ -1,4 +1,6 @@
 {
-  "arabic": "امت",
+  "term": "امت",
+  "previous_term": "امبيق",
+  "next_term": "امد",
   "definition": "امت amt crookedness, curvedness, curvation, curvature; weakness"
 }

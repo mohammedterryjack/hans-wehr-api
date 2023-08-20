@@ -1,4 +1,6 @@
 {
-  "arabic": "متحجر",
+  "term": "متحجر",
+  "previous_term": "تحجر",
+  "next_term": "مستحجر",
   "definition": "متحجر mutaḥajjir petrified"
 }

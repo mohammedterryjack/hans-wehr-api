@@ -1,4 +1,6 @@
 {
-  "arabic": "عام",
+  "term": "عام",
+  "previous_term": "تعميم",
+  "next_term": "عامة",
   "definition": "عام ‘āmm public; universal, prevalent; general; common │ الأمن العام (amn) public security; مدير عام (mudīr) director general, general manager; الرأي العام (ra’y) public opinion; الصالح العام or المصلحة العامة (maṣlaḥa) public welfare, the commonweal; الخاص والعام (kāṣṣ) high and low, all men, all, everybody (also العام والخاص)"
 }

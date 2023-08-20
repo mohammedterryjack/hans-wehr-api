@@ -1,4 +1,6 @@
 {
-  "arabic": "فقهي",
+  "term": "فقهي",
+  "previous_term": "فقه",
+  "next_term": "فقيه",
   "definition": "فقهي fiqhī juristic(al); relating to jurisprudence in Islam"
 }

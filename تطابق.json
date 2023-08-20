@@ -1,4 +1,6 @@
 {
-  "arabic": "تطابق",
+  "term": "تطابق",
+  "previous_term": "مطابقة",
+  "next_term": "مطابق",
   "definition": "تطابق taṭābuq congruence (geom.)"
 }

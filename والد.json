@@ -1,4 +1,6 @@
 {
-  "arabic": "والد",
+  "term": "والد",
+  "previous_term": "استيلاد",
+  "next_term": "والدة",
   "definition": "والد wālid procreator, progenitor; father, parent; الوالدان the parents, father and mother"
 }

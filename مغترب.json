@@ -1,4 +1,6 @@
 {
-  "arabic": "مغترب",
+  "term": "مغترب",
+  "previous_term": "غارب",
+  "next_term": "مستغرب",
   "definition": "مغترب muglarib stranger, foreigner, alien; living away from home"
 }

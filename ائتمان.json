@@ -1,4 +1,6 @@
 {
-  "arabic": "ائتمان",
+  "term": "ائتمان",
+  "previous_term": "ايمان",
+  "next_term": "استئمان",
   "definition": "ائتمان I’timān trust, confidence; credit"
 }

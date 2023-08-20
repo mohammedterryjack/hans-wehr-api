@@ -1,4 +1,6 @@
 {
-  "arabic": "توصيل",
+  "term": "توصيل",
+  "previous_term": "وصيل",
+  "next_term": "توصيلة",
   "definition": "توصيل tauṣīl uniting, joining, connecting; supply, feed; connection, junction; electric contact, feed wire, feeder; electric circuit, connection layout, connection; conductivity (el.); communication, transmission, transfer, conveyance; delivery; execution, dispatch, discharge; (pl. تواصيل tawāṣīl) receipt, voucher │ O توصيل الى الأرض (arḍ) ground connection, ground (radio); O توصيل على التضاعف (taḍā‘uf) multiple connection, series parallel (el.); O توصيل على التوازي (tawāzī) parallel connection (el.); O توصيل على التوالي series connection (el.); جيد التوصيل jayyid at-t. or good conductivity, good conductor (el.); O سداد التوصيل saddād at-t. (male) plug (el.)"
 }

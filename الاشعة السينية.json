@@ -1,4 +1,6 @@
 {
-  "arabic": "الاشعة السينية",
+  "term": "الاشعة السينية",
+  "previous_term": "سين",
+  "next_term": "سينا",
   "definition": "الاشعة السينية al-aši‘‘a as-sīnīya S rays"
 }

@@ -1,4 +1,6 @@
 {
-  "arabic": "وثاقة",
+  "term": "وثاقة",
+  "previous_term": "وثاق",
+  "next_term": "وثيق",
   "definition": "وثاقة watāqa firmness solidity, strength"
 }

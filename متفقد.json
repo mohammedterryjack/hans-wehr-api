@@ -1,4 +1,6 @@
 {
-  "arabic": "متفقد",
+  "term": "متفقد",
+  "previous_term": "مفقود",
+  "next_term": "فقر",
   "definition": "متفقد mutafaqqid controller, inspector"
 }

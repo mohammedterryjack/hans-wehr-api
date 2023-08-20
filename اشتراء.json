@@ -1,4 +1,6 @@
 {
-  "arabic": "اشتراء",
+  "term": "اشتراء",
+  "previous_term": "شرياني",
+  "next_term": "شار",
   "definition": "اشتراء ištirā’ purchase buy(ing)"
 }

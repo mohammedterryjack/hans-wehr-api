@@ -1,4 +1,6 @@
 {
-  "arabic": "وقتئذ",
+  "term": "وقتئذ",
+  "previous_term": "وقت",
+  "next_term": "وقتذاك",
   "definition": "وقتئذ waqta’idin then, at that time, by then"
 }

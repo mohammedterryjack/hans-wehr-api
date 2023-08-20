@@ -1,4 +1,6 @@
 {
-  "arabic": "الشرعية",
+  "term": "الشرعية",
+  "previous_term": "شرعى",
+  "next_term": "شرعية",
   "definition": "الشرعية the religious courts; illegitimate (child)"
 }

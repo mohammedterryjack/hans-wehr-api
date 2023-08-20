@@ -1,4 +1,6 @@
 {
-  "arabic": "سكتة",
+  "term": "سكتة",
+  "previous_term": "سكت",
+  "next_term": "سكات",
   "definition": "سكتة sakta silence, quiet; stroke, apoplexy (med.) │ سكتة (qalbīya) heart failure"
 }

@@ -1,4 +1,6 @@
 {
-  "arabic": "اعرابي",
+  "term": "اعرابي",
+  "previous_term": "عرابة",
+  "next_term": "عروبة",
   "definition": "اعرابي a‘rābī pl. اعراب a‘rāb an Arab of the desert, a Bedouin"
 }

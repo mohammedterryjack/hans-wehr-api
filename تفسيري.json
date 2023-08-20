@@ -1,4 +1,6 @@
 {
-  "arabic": "تفسيري",
+  "term": "تفسيري",
+  "previous_term": "تفسير",
+  "next_term": "تفسرة",
   "definition": "تفسيري tafsīrī explanatory, explicatory, illustrative"
 }

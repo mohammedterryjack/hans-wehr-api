@@ -1,4 +1,6 @@
 {
-  "arabic": "ابجد",
+  "term": "ابجد",
+  "previous_term": "يا ابت",
+  "next_term": "ابجدي",
   "definition": "ابجد abjad alphabet"
 }

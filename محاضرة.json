@@ -1,4 +1,6 @@
 {
-  "arabic": "محاضرة",
+  "term": "محاضرة",
+  "previous_term": "تحضيري",
+  "next_term": "احضار",
   "definition": "محاضرة muḥāḍara pl. -āt lecture"
 }

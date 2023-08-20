@@ -1,4 +1,6 @@
 {
-  "arabic": "متسابق",
+  "term": "متسابق",
+  "previous_term": "مسابق",
+  "next_term": "سبك",
   "definition": "متسابق mvla.tdbiq competitor; contestant"
 }

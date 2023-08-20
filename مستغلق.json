@@ -1,4 +1,6 @@
 {
-  "arabic": "مستغلق",
+  "term": "مستغلق",
+  "previous_term": "مغلق",
+  "next_term": "غلم",
   "definition": "مستغلق mustagliq obscure, dark, cryptic, ambiguous, equivocal"
 }

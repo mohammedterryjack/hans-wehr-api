@@ -1,4 +1,6 @@
 {
-  "arabic": "مشتغل",
+  "term": "مشتغل",
+  "previous_term": "مشغولية",
+  "next_term": "شفة",
   "definition": "مشتغل muštagil busy, occupied (ب or في with); in operation, running (of a machine)"
 }

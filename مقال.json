@@ -1,4 +1,6 @@
 {
-  "arabic": "مقال",
+  "term": "مقال",
+  "previous_term": "مقول",
+  "next_term": "مقالة",
   "definition": "مقال maqāl speech; proposition, contention, teaching, doctrine; article; treatise; piece of writing"
 }

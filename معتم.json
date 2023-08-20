@@ -1,4 +1,6 @@
 {
-  "arabic": "معتم",
+  "term": "معتم",
+  "previous_term": "تعتيم",
+  "next_term": "عته",
   "definition": "معتم mu‘tim dark"
 }

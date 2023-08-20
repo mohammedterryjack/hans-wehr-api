@@ -1,4 +1,6 @@
 {
-  "arabic": "مسورة",
+  "term": "مسورة",
+  "previous_term": "مسائي",
+  "next_term": "مسي",
   "definition": "مسورة = ماسورة look up alphabetically"
 }

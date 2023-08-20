@@ -1,4 +1,6 @@
 {
-  "arabic": "مخير",
+  "term": "مخير",
+  "previous_term": "اختياري",
+  "next_term": "مختار",
   "definition": "مخير mukayyar having the choice or option"
 }

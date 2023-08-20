@@ -1,4 +1,6 @@
 {
-  "arabic": "اليمن",
+  "term": "اليمن",
+  "previous_term": "يمن",
+  "next_term": "يمنى",
   "definition": "اليمن al-yaman Yemen"
 }

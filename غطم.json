@@ -1,4 +1,6 @@
 {
-  "arabic": "غطم",
+  "term": "غطم",
+  "previous_term": "غطش",
+  "next_term": "غطو",
   "definition": "غطم giṭamm huge, vast (ocean)"
 }

@@ -1,4 +1,6 @@
 {
-  "arabic": "مستيقظ",
+  "term": "مستيقظ",
+  "previous_term": "متيقظ",
+  "next_term": "يقن",
   "definition": "مستيقظ mustaiqiẓ awake"
 }

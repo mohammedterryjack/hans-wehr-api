@@ -1,4 +1,6 @@
 {
-  "arabic": "البحرين",
+  "term": "البحرين",
+  "previous_term": "بحر",
+  "next_term": "بحراني",
   "definition": "البحرين al-baḥrain the Bahrein Islands"
 }

@@ -1,4 +1,6 @@
 {
-  "arabic": "شرعى",
+  "term": "شرعى",
+  "previous_term": "الشرع",
+  "next_term": "الشرعية",
   "definition": "شرعى šar‘i lawful, legitimate, legal, rightful; شرعيا šar‘iyan lawfully, legitimately, etc. | الطب الشرعى (tibb) forensic medicine; القضاء الشرعى (qadā’) jurisdiction based on the Sharia"
 }

@@ -1,4 +1,6 @@
 {
-  "arabic": "سنن",
+  "term": "سنن",
+  "previous_term": "سني",
+  "next_term": "سنان",
   "definition": "سنن sanan customary practice, usage, habit, rule"
 }

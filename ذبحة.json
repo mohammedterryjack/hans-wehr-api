@@ -1,4 +1,6 @@
 {
-  "arabic": "ذبحة",
+  "term": "ذبحة",
+  "previous_term": "ذبح",
+  "next_term": "ذباح",
   "definition": "ذبحة dibḥa, dubḥa angina (med.); diphtheria │ الذبحة الصدرية (ṣadrīya) angina pectoris (med.); O الذبحة الفؤادية (fu’ādīya) do."
 }

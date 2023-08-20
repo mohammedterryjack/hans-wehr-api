@@ -1,4 +1,6 @@
 {
-  "arabic": "شارح",
+  "term": "شارح",
+  "previous_term": "انشراح",
+  "next_term": "مشرح",
   "definition": "شارح šāriḥ pl. شراح šurrāḥ explainer, expounder, interpreter, commentator, expositor"
 }

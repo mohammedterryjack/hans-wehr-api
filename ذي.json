@@ -1,4 +1,6 @@
 {
-  "arabic": "ذي",
+  "term": "ذي",
+  "previous_term": "ذاو",
+  "next_term": "ذيع",
   "definition": "ذي see ذو"
 }

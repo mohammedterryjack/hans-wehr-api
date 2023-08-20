@@ -1,4 +1,6 @@
 {
-  "arabic": "مقروء",
+  "term": "مقروء",
+  "previous_term": "قارئ",
+  "next_term": "مقرئ",
   "definition": "مقروء maqrū’ read (past part.); legible, readable; worth reading"
 }

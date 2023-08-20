@@ -1,4 +1,6 @@
 {
-  "arabic": "ايمان",
+  "term": "ايمان",
+  "previous_term": "تامين",
+  "next_term": "ائتمان",
   "definition": "ايمان iman faith, belief (ب in)"
 }

@@ -1,4 +1,6 @@
 {
-  "arabic": "سنتمتر",
+  "term": "سنتمتر",
+  "previous_term": "سنت",
+  "next_term": "سنج",
   "definition": "سنتمتر satimitr pl. -āt centimeter"
 }

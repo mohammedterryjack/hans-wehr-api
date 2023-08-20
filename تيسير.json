@@ -1,4 +1,6 @@
 {
-  "arabic": "تيسير",
+  "term": "تيسير",
+  "previous_term": "ميسرة",
+  "next_term": "ميسور",
   "definition": "تيسير taisīr facilitation"
 }

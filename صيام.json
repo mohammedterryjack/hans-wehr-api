@@ -1,4 +1,6 @@
 {
-  "arabic": "صيام",
+  "term": "صيام",
+  "previous_term": "صوم",
+  "next_term": "صيامي",
   "definition": "صيام ṣiyām fasting, fast"
 }

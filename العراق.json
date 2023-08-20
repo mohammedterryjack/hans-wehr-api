@@ -1,4 +1,6 @@
 {
-  "arabic": "العراق",
+  "term": "العراق",
+  "previous_term": "عريق",
+  "next_term": "عراق",
   "definition": "العراق al-‘irāq Iraq; العراقان al-‘irāqān Basra and Kufa"
 }

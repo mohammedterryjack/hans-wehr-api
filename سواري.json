@@ -1,4 +1,6 @@
 {
-  "arabic": "سواري",
+  "term": "سواري",
+  "previous_term": "سوار",
+  "next_term": "سوري",
   "definition": "سواريlook up alphabetically"
 }

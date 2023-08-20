@@ -1,4 +1,6 @@
 {
-  "arabic": "كيمي",
+  "term": "كيمي",
+  "previous_term": "كيمياء",
+  "next_term": "كيميائي",
   "definition": "كيمي kīmī chemical"
 }

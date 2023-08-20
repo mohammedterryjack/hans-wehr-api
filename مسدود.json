@@ -1,4 +1,6 @@
 {
-  "arabic": "مسدود",
+  "term": "مسدود",
+  "previous_term": "ساد",
+  "next_term": "سدب",
   "definition": "مسدود masdūd closed (circuit; el.)"
 }

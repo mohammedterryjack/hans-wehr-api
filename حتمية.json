@@ -1,4 +1,6 @@
 {
-  "arabic": "حتمية",
+  "term": "حتمية",
+  "previous_term": "حتمي",
+  "next_term": "لا حتمية",
   "definition": "حتمية ḥatmīya decidedness, definiteness, definitiveness, determinateness, unalterableness; necessity"
 }

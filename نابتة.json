@@ -1,4 +1,6 @@
 {
-  "arabic": "نابتة",
+  "term": "نابتة",
+  "previous_term": "استنبات",
+  "next_term": "مستنبت",
   "definition": "نابتة nābita generation"
 }

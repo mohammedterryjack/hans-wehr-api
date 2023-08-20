@@ -1,4 +1,6 @@
 {
-  "arabic": "مفسر",
+  "term": "مفسر",
+  "previous_term": "استفسار",
+  "next_term": "فسطاط",
   "definition": "مفسر mufassir commentator"
 }

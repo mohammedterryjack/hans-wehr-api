@@ -1,4 +1,6 @@
 {
-  "arabic": "استكمال",
+  "term": "استكمال",
+  "previous_term": "اكتمال",
+  "next_term": "كامل",
   "definition": "استكمال istikmāl conclusion, termination, finishing"
 }

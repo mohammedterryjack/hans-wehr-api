@@ -1,4 +1,6 @@
 {
-  "arabic": "مديونية",
+  "term": "مديونية",
+  "previous_term": "مديون",
+  "next_term": "مدين",
   "definition": "مديونية madyūnīya indebtedness obligation"
 }

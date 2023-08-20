@@ -1,4 +1,6 @@
 {
-  "arabic": "ترمومتر",
+  "term": "ترمومتر",
+  "previous_term": "ترمس",
+  "next_term": "ترنج",
   "definition": "ترمومتر termūmitr thermometer"
 }

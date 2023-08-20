@@ -1,4 +1,6 @@
 {
-  "arabic": "جراحى",
+  "term": "جراحى",
+  "previous_term": "جراحة",
+  "next_term": "جريح",
   "definition": "جراحى jirāḥī surgical│ عملية جراحية (‘amalīya) surgical operation"
 }

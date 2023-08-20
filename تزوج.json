@@ -1,4 +1,6 @@
 {
-  "arabic": "تزوج",
+  "term": "تزوج",
+  "previous_term": "مزاوجة",
+  "next_term": "تزاوج",
   "definition": "تزوج tazawwuj marriage"
 }

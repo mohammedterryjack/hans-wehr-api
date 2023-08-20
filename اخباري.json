@@ -1,4 +1,6 @@
 {
-  "arabic": "اخباري",
+  "term": "اخباري",
+  "previous_term": "اخبار",
+  "next_term": "تخابر",
   "definition": "اخباري ikbārī news-, information- (in compounds)"
 }

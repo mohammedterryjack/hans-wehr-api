@@ -1,4 +1,6 @@
 {
-  "arabic": "تعجب",
+  "term": "تعجب",
+  "previous_term": "اعجاب",
+  "next_term": "استعجاب",
   "definition": "تعجب ta‘ajjub astonishment, amazement"
 }

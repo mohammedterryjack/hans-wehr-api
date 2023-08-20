@@ -1,4 +1,6 @@
 {
-  "arabic": "ممنوعية",
+  "term": "ممنوعية",
+  "previous_term": "ممنوع",
+  "next_term": "ممتنع",
   "definition": "ممنوعية mamnū‘īya forbiddenness"
 }

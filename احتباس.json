@@ -1,4 +1,6 @@
 {
-  "arabic": "احتباس",
+  "term": "احتباس",
+  "previous_term": "انحباس",
+  "next_term": "محبوس",
   "definition": "احتباس iḥtibās retention, restraint; inhibition, impediment, obstruction, stoppage │احتباس البول iḥtibās al-baul suppression of urine, ischuria"
 }

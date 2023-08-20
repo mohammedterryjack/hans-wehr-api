@@ -1,4 +1,6 @@
 {
-  "arabic": "تناقص",
+  "term": "تناقص",
+  "previous_term": "انقاص",
+  "next_term": "انتقاص",
   "definition": "تناقص tanāquṣ decrease, diminution, decrement"
 }

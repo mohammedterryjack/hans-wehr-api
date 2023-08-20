@@ -1,4 +1,6 @@
 {
-  "arabic": "منطوق",
+  "term": "منطوق",
+  "previous_term": "ناطق",
+  "next_term": "مستنطق",
   "definition": "منطوق manṭūq pronounced, uttered, expressed; wording; text; statement; formulation │ بالمنطوق according to the text; expressly, explicitly, unequivocally; منطوق الحكم m. al-ḥukm dispositive portion of the judgment (jur.); منطوق العقد m. al-’aqd the exact terms of the contract; منطوق القانون text of the law, legal text; منطوق الكلمة m. al-kalima literal meaning of a word"
 }

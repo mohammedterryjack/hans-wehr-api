@@ -1,4 +1,6 @@
 {
-  "arabic": "تحفيظ",
+  "term": "تحفيظ",
+  "previous_term": "محفظة",
+  "next_term": "محافظة",
   "definition": "تحفيظ taḥfīẓ memorization drill, inculcation (esp. of the Koran)"
 }

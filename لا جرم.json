@@ -1,4 +1,6 @@
 {
-  "arabic": "لا جرم",
+  "term": "لا جرم",
+  "previous_term": "جرم",
+  "next_term": "جريم",
   "definition": "لا جرم lā jarama surely, certainly, of course"
 }

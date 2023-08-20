@@ -1,4 +1,6 @@
 {
-  "arabic": "الآحد",
+  "term": "الآحد",
+  "previous_term": "احدية",
+  "next_term": "احن",
   "definition": "الآحد al-āḥād the units (math.)"
 }

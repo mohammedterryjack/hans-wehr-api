@@ -1,4 +1,6 @@
 {
-  "arabic": "مؤجر",
+  "term": "مؤجر",
+  "previous_term": "ماجور",
+  "next_term": "مستاجر",
   "definition": "مؤجر mu’ajjir pl. -ūn landlord, lessor"
 }

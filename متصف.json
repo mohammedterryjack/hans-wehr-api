@@ -1,4 +1,6 @@
 {
-  "arabic": "متصف",
+  "term": "متصف",
+  "previous_term": "موصوف",
+  "next_term": "مستوصف",
   "definition": "متصف muttaṣif characterized (ب by), possessing a property or an attribute (ب s.th.)"
 }

@@ -1,4 +1,6 @@
 {
-  "arabic": "كسوف",
+  "term": "كسوف",
+  "previous_term": "كسف",
+  "next_term": "انكساف",
   "definition": "كسوف 1cuaUf occultation, eclipse, solar eclipse"
 }

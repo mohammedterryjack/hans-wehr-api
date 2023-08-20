@@ -1,4 +1,6 @@
 {
-  "arabic": "فيزياء",
+  "term": "فيزياء",
+  "previous_term": "فيزا",
+  "next_term": "فيزيائي",
   "definition": "فيزياء fīziyā’ physics"
 }

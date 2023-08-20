@@ -1,4 +1,6 @@
 {
-  "arabic": "مزرع",
+  "term": "مزرع",
+  "previous_term": "زراع",
+  "next_term": "مزرعة",
   "definition": "مزرع mazra‘ (arable) land"
 }

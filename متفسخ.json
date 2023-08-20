@@ -1,4 +1,6 @@
 {
-  "arabic": "متفسخ",
+  "term": "متفسخ",
+  "previous_term": "فسيخ",
+  "next_term": "فسد",
   "definition": "متفسخ mutafassik degenerate(d)"
 }

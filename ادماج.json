@@ -1,4 +1,6 @@
 {
-  "arabic": "ادماج",
+  "term": "ادماج",
+  "previous_term": "تدميج",
+  "next_term": "اندماج",
   "definition": "ادماج idmāj insertion, incorporation, interpolation; inclusion (في in); assimilation"
 }

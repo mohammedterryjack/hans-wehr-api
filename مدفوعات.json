@@ -1,4 +1,6 @@
 {
-  "arabic": "مدفوعات",
+  "term": "مدفوعات",
+  "previous_term": "دافع",
+  "next_term": "مدافع",
   "definition": "مدفوعات madfū‘āt payments"
 }

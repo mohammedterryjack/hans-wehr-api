@@ -1,4 +1,6 @@
 {
-  "arabic": "حراث",
+  "term": "حراث",
+  "previous_term": "حراثة",
+  "next_term": "محراث",
   "definition": "حراث ḥarrāt plowman"
 }

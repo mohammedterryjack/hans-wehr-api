@@ -1,4 +1,6 @@
 {
-  "arabic": "شعبية",
+  "term": "شعبية",
+  "previous_term": "شعبي",
+  "next_term": "شعوبي",
   "definition": "شعبية ša‘bīya popularity"
 }

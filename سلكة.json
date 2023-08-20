@@ -1,4 +1,6 @@
 {
-  "arabic": "سلكة",
+  "term": "سلكة",
+  "previous_term": "لاسلكي",
+  "next_term": "سلوك",
   "definition": "سلكة silka pl. سلك silak wire; thread; string (also, of a musical instrument)"
 }

@@ -1,4 +1,6 @@
 {
-  "arabic": "بائعة",
+  "term": "بائعة",
+  "previous_term": "بائع",
+  "next_term": "مبتاع",
   "definition": "بائعة bā’i‘a saleswoman"
 }

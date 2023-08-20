@@ -1,4 +1,6 @@
 {
-  "arabic": "مطبع",
+  "term": "مطبع",
+  "previous_term": "طبيعي",
+  "next_term": "مطبعة",
   "definition": "مطبع maṭba‘ print shop, printing office, printing house, press"
 }

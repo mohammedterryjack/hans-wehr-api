@@ -1,4 +1,6 @@
 {
-  "arabic": "مصنوع",
+  "term": "مصنوع",
+  "previous_term": "صانع",
+  "next_term": "متصنع",
   "definition": "مصنوع product, produce; pl. مصنوعات (industrial) products, produce, articles, manufactured goods"
 }

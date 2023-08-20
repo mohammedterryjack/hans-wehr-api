@@ -1,4 +1,6 @@
 {
-  "arabic": "استصواب",
+  "term": "استصواب",
+  "previous_term": "اصابة",
+  "next_term": "صائب",
   "definition": "استصواب istiṣwāb approval"
 }

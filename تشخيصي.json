@@ -1,4 +1,6 @@
 {
-  "arabic": "تشخيصي",
+  "term": "تشخيصي",
+  "previous_term": "تشخيص",
+  "next_term": "شاخص",
   "definition": "تشخيصي diagnostic │ طبيب تشخيصي diagnostician"
 }

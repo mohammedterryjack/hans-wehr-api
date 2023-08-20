@@ -1,4 +1,6 @@
 {
-  "arabic": "استذكار",
+  "term": "استذكار",
+  "previous_term": "تذكر",
+  "next_term": "ذاكرة",
   "definition": "استذكار istidkār memorizing, memorization, committing to memory"
 }

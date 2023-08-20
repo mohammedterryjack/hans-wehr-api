@@ -1,4 +1,6 @@
 {
-  "arabic": "تورم",
+  "term": "تورم",
+  "previous_term": "ورم",
+  "next_term": "وارم",
   "definition": "تورم tawarrum swelling, rising, intumescence"
 }

@@ -1,4 +1,6 @@
 {
-  "arabic": "القرآن",
+  "term": "القرآن",
+  "previous_term": "قراءة",
+  "next_term": "قرآني",
   "definition": "القرآن al-qur’ān the Koran"
 }

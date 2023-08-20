@@ -1,4 +1,6 @@
 {
-  "arabic": "محجوب",
+  "term": "محجوب",
+  "previous_term": "حاجب",
+  "next_term": "حجر",
   "definition": "محجوب maḥjūb concealed, hidden, veiled"
 }

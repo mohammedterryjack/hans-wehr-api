@@ -1,4 +1,6 @@
 {
-  "arabic": "تغيب",
+  "term": "تغيب",
+  "previous_term": "مغيب",
+  "next_term": "اغتياب",
   "definition": "تغيب tagayyub absence, nonattendance, being away, staying away, truancy"
 }

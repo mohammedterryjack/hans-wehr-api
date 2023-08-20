@@ -1,4 +1,6 @@
 {
-  "arabic": "متهتك",
+  "term": "متهتك",
+  "previous_term": "تهتك",
+  "next_term": "مستهتك",
   "definition": "متهتك mutahattik insolent, impudent; shameless, dishonorable"
 }

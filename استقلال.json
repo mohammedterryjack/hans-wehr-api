@@ -1,4 +1,6 @@
 {
-  "arabic": "استقلال",
+  "term": "استقلال",
+  "previous_term": "اقلال",
+  "next_term": "استقلالي",
   "definition": "استقلال istiqlāl independence"
 }

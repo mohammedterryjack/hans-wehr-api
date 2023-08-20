@@ -1,4 +1,6 @@
 {
-  "arabic": "متجر",
+  "term": "متجر",
+  "previous_term": "تجارى",
+  "next_term": "متجرى",
   "definition": "متجر matjar pl. متاجر matājir2 bussiness, transaction, dealing; merchandise; store, shop"
 }

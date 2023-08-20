@@ -1,4 +1,6 @@
 {
-  "arabic": "متطبب",
+  "term": "متطبب",
+  "previous_term": "تطبيب",
+  "next_term": "طبخ",
   "definition": "متطبب mutaṭabbib quack, quacksalver"
 }

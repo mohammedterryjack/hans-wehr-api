@@ -1,4 +1,6 @@
 {
-  "arabic": "لغة",
+  "term": "لغة",
+  "previous_term": "لغو",
+  "next_term": "لغوة",
   "definition": "لغة luga pl. -āt language; dialect; idiom; vernacular; lingo, jargon; word; expression, term; اللغة classical Arabic │ لغة اجنبية (ajnabīya) foreign language; لغة عامية (‘āmmīya) popular language; لغة الكناية literary language; لغة المحادثة l. al-muḥādata colloquial language; لغة المهنة l. al-mihna professional jargon, slang; لغة المولد l. al-maulid mother 870 tongue; اهل اللغة ahl al-l. philologists, lexicographers; علم اللغة ‘ilm al-l. lexicography, philology, linguistic science, linguistics"
 }

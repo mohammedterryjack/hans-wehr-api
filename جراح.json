@@ -1,4 +1,6 @@
 {
-  "arabic": "جراح",
+  "term": "جراح",
+  "previous_term": "جرح",
+  "next_term": "جراحة",
   "definition": "جراح jarrāḥ pl. -ūn surgeon│جراح الاسنان dental surgeon"
 }

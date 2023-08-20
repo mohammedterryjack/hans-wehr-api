@@ -1,4 +1,6 @@
 {
-  "arabic": "حليب",
+  "term": "حليب",
+  "previous_term": "حلبة",
+  "next_term": "حلوب",
   "definition": "حليب ḥalīb milk │لبن حليب laban ḥ. cow’s milk (eg.)"
 }

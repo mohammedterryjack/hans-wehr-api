@@ -1,4 +1,6 @@
 {
-  "arabic": "تعفن",
+  "term": "تعفن",
+  "previous_term": "عفونة",
+  "next_term": "معفن",
   "definition": "تعفن ta‘affun rottenness, putridity, decay, spoiledness"
 }

@@ -1,4 +1,6 @@
 {
-  "arabic": "متحدر",
+  "term": "متحدر",
+  "previous_term": "حادر",
+  "next_term": "منحدر",
   "definition": "متحدر mutaḥaddir descending, slanting, sloping downward"
 }

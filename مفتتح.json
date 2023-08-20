@@ -1,4 +1,6 @@
 {
-  "arabic": "مفتتح",
+  "term": "مفتتح",
+  "previous_term": "مفتح",
+  "next_term": "فتر",
   "definition": "مفتتح muftataḥ start, beginning, commencement, inception, opening, inauguration"
 }

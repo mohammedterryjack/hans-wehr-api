@@ -1,4 +1,6 @@
 {
-  "arabic": "مقرض",
+  "term": "مقرض",
+  "previous_term": "القوارض",
+  "next_term": "منقرض",
   "definition": "مقرض muqriḍ pl. -ūn moneylender; lender"
 }

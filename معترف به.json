@@ -1,4 +1,6 @@
 {
-  "arabic": "معترف به",
+  "term": "معترف به",
+  "previous_term": "معترف",
+  "next_term": "عرق",
   "definition": "معترف به mu‘taraf bihī recognized, accepted, admitted, granted, approved-of, licensed, authorized"
 }

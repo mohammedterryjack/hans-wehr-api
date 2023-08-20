@@ -1,4 +1,6 @@
 {
-  "arabic": "حالب",
+  "term": "حالب",
+  "previous_term": "محلب",
+  "next_term": "مستحلب",
   "definition": "حالب ḥālib ureter"
 }

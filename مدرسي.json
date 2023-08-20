@@ -1,4 +1,6 @@
 {
-  "arabic": "مدرسي",
+  "term": "مدرسي",
+  "previous_term": "مدرسة",
+  "next_term": "تدريس",
   "definition": "مدرسي madrasī scholastic, school"
 }

@@ -1,4 +1,6 @@
 {
-  "arabic": "حادثة",
+  "term": "حادثة",
+  "previous_term": "حادث",
+  "next_term": "محدث",
   "definition": "حادثة ḥādita pl. حوادث ḥawādit2 occurrence, event, happening; plot (of a play) ; incident, episode; accident, mishap │ حادثة المرورḥ. al-murūr traffic accident"
 }

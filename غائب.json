@@ -1,4 +1,6 @@
 {
-  "arabic": "غائب",
+  "term": "غائب",
+  "previous_term": "اغتياب",
+  "next_term": "مغيبات",
   "definition": "غائب gā’ib pl. -ūn, غيب guyyab, غياب guyyāb absent, not present, not there; hidden, concealed, unseen, invisible; third person (gram.)"
 }

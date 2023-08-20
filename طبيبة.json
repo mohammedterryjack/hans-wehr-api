@@ -1,4 +1,6 @@
 {
-  "arabic": "طبيبة",
+  "term": "طبيبة",
+  "previous_term": "طبيب",
+  "next_term": "طبابة",
   "definition": "طبيبة ṭabība female doctor, doctress"
 }

@@ -1,4 +1,6 @@
 {
-  "arabic": "تفهيم",
+  "term": "تفهيم",
+  "previous_term": "فهامة",
+  "next_term": "تفهم",
   "definition": "تفهيم tafhīm instruction, orientation"
 }

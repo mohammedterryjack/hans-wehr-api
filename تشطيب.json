@@ -1,4 +1,6 @@
 {
-  "arabic": "تشطيب",
+  "term": "تشطيب",
+  "previous_term": "شطب",
+  "next_term": "شطح",
   "definition": "تشطيب tašṭīb: تشطيب الحساب posting of an account (to the ledger); ساعة التشطيب curfew"
 }

@@ -1,4 +1,6 @@
 {
-  "arabic": "مستكه",
+  "term": "مستكه",
+  "previous_term": "مسترده",
+  "next_term": "مسح",
   "definition": "مستكه mistika = مصطكاء"
 }

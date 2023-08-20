@@ -1,4 +1,6 @@
 {
-  "arabic": "مطار",
+  "term": "مطار",
+  "previous_term": "طيران",
+  "next_term": "مطارة",
   "definition": "مطار maṭār pl. -āt airfield, airport │ O مطار عائم aircraft carrier"
 }

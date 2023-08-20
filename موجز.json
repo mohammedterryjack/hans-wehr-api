@@ -1,4 +1,6 @@
 {
-  "arabic": "موجز",
+  "term": "موجز",
+  "previous_term": "ايجاز",
+  "next_term": "وجس",
   "definition": "موجز mūjaz summarized; concise, terse; abstract, epitome; outline, brief sketch; summary, résumé"
 }

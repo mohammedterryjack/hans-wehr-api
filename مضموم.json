@@ -1,4 +1,6 @@
 {
-  "arabic": "مضموم",
+  "term": "مضموم",
+  "previous_term": "انضمام",
+  "next_term": "منضم",
   "definition": "مضموم maḍmūm closed, tight, compressed (mouth)"
 }

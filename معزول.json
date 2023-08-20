@@ -1,4 +1,6 @@
 {
-  "arabic": "معزول",
+  "term": "معزول",
+  "previous_term": "عازلة",
+  "next_term": "منعزل",
   "definition": "معزول ma‘zūl far, distant, remote (عن from); isolated, insulated"
 }

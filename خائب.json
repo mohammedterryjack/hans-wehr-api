@@ -1,4 +1,6 @@
 {
-  "arabic": "خائب",
+  "term": "خائب",
+  "previous_term": "خيبة",
+  "next_term": "خير",
   "definition": "خائب kā’ib failing; abortive, unsuccessful; disappointed"
 }

@@ -1,4 +1,6 @@
 {
-  "arabic": "غياب",
+  "term": "غياب",
+  "previous_term": "غيبة",
+  "next_term": "غيابي",
   "definition": "غياب giyāb absence, being away; setting (of the sun)"
 }

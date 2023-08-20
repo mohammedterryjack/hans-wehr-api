@@ -1,4 +1,6 @@
 {
-  "arabic": "ماجستير",
+  "term": "ماجستير",
+  "previous_term": "ماتينيه",
+  "next_term": "ماخور",
   "definition": "ماجستير mājistēr master, schoolmaster"
 }

@@ -1,4 +1,6 @@
 {
-  "arabic": "انقاص",
+  "term": "انقاص",
+  "previous_term": "مناقصة",
+  "next_term": "تناقص",
   "definition": "انقاص inqāṣ diminution, lessening, decrease, reduction, lowering, curtailment"
 }

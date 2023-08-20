@@ -1,4 +1,6 @@
 {
-  "arabic": "استتمام",
+  "term": "استتمام",
+  "previous_term": "اتمام",
+  "next_term": "تام",
   "definition": "استتمام istitmām termination, conclusion"
 }

@@ -1,4 +1,6 @@
 {
-  "arabic": "اخفاق",
+  "term": "اخفاق",
+  "previous_term": "مخفقة",
+  "next_term": "خافق",
   "definition": "اخفاق ikfāq failure, fizzle, flop, fiasco"
 }

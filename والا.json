@@ -1,4 +1,6 @@
 {
-  "arabic": "والا",
+  "term": "والا",
+  "previous_term": "و",
+  "next_term": "وان",
   "definition": "والا wa-illā (and if not), otherwise, else"
 }

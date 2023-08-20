@@ -1,4 +1,6 @@
 {
-  "arabic": "مستورد",
+  "term": "مستورد",
+  "previous_term": "وارد",
+  "next_term": "مستوردات",
   "definition": "مستورد mustaurid importer"
 }

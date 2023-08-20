@@ -1,4 +1,6 @@
 {
-  "arabic": "ركعة",
+  "term": "ركعة",
+  "previous_term": "ركع",
+  "next_term": "راكع",
   "definition": "ركعة rak‘a pl. raka’āt a bending of the torso from an upright position, followed by two prostrations (in Muslim prayer ritual)"
 }

@@ -1,4 +1,6 @@
 {
-  "arabic": "وارد",
+  "term": "وارد",
+  "previous_term": "استيراد",
+  "next_term": "مستورد",
   "definition": "وارد wārid pl. وراد wurrād arriving; found, mentioned; newcomer, arrival; pl. -āt imports; receipts, incomings, returns, proceeds, takings │ واردات وصادرات imports and exports"
 }

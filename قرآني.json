@@ -1,4 +1,6 @@
 {
-  "arabic": "قرآني",
+  "term": "قرآني",
+  "previous_term": "القرآن",
+  "next_term": "استقراء",
   "definition": "قرآني qur’ānī Koranic, of or pertaining to the Koran"
 }

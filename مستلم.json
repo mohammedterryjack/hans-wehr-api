@@ -1,4 +1,6 @@
 {
-  "arabic": "مستلم",
+  "term": "مستلم",
+  "previous_term": "مسالم",
+  "next_term": "سلندر",
   "definition": "مستلم mustalim recipient; consignee"
 }

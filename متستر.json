@@ -1,4 +1,6 @@
 {
-  "arabic": "متستر",
+  "term": "متستر",
+  "previous_term": "مستور",
+  "next_term": "مستتر",
   "definition": "متستر mutasattir O anonymous"
 }

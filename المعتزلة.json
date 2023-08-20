@@ -1,4 +1,6 @@
 {
-  "arabic": "المعتزلة",
+  "term": "المعتزلة",
+  "previous_term": "منعزل",
+  "next_term": "معتزل",
   "definition": "المعتزلة al-mu‘tazila name of a theological school which introduced speculative dogmatism into Islam"
 }

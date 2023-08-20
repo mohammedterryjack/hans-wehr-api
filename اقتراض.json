@@ -1,4 +1,6 @@
 {
-  "arabic": "اقتراض",
+  "term": "اقتراض",
+  "previous_term": "انقراض",
+  "next_term": "استقراض",
   "definition": "اقتراض iqtirāḍ loan"
 }

@@ -1,4 +1,6 @@
 {
-  "arabic": "مفروض",
+  "term": "مفروض",
+  "previous_term": "فارض",
+  "next_term": "فرط",
   "definition": "مفروض mafrūḍ supposed, assumed, premised; pl. مفروضات duties, obligations"
 }

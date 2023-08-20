@@ -1,4 +1,6 @@
 {
-  "arabic": "مكذوب",
+  "term": "مكذوب",
+  "previous_term": "كاذب",
+  "next_term": "كرة",
   "definition": "مكذوب makdūb false, untrue, fabricated, trumped up"
 }

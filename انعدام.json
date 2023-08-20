@@ -1,4 +1,6 @@
 {
-  "arabic": "انعدام",
+  "term": "انعدام",
+  "previous_term": "اعدامية",
+  "next_term": "عادم",
   "definition": "انعدام in‘idām absence, lack, nonexistence"
 }

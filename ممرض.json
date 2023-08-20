@@ -1,4 +1,6 @@
 {
-  "arabic": "ممرض",
+  "term": "ممرض",
+  "previous_term": "تمريض",
+  "next_term": "ممرضة",
   "definition": "ممرض mumarriḍ (male) sick nurse, hospital attendant; ambulance man, first-aid man; doctor’s assistant"
 }

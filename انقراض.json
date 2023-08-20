@@ -1,4 +1,6 @@
 {
-  "arabic": "انقراض",
+  "term": "انقراض",
+  "previous_term": "مقراض",
+  "next_term": "اقتراض",
   "definition": "انقراض inqirāḍ dying out, gradual disappearance; extinction"
 }

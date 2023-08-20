@@ -1,4 +1,6 @@
 {
-  "arabic": "استفهامي",
+  "term": "استفهامي",
+  "previous_term": "استفهام",
+  "next_term": "مفهوم",
   "definition": "استفهامي istifhāmī interrogative (gram.)"
 }

@@ -1,4 +1,6 @@
 {
-  "arabic": "حساب الجمل",
+  "term": "حساب الجمل",
+  "previous_term": "جملة",
+  "next_term": "جمال",
   "definition": "حساب الجمل ḥisāb al-jummal (or jumal) use of the letters of the alphabet according to their numerical value"
 }

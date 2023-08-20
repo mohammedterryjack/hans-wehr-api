@@ -1,4 +1,6 @@
 {
-  "arabic": "استيراد",
+  "term": "استيراد",
+  "previous_term": "توارد",
+  "next_term": "وارد",
   "definition": "استيراد istīrād importation, import(s)"
 }

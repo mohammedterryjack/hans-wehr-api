@@ -1,4 +1,6 @@
 {
-  "arabic": "افرغ",
+  "term": "افرغ",
+  "previous_term": "فروغ",
+  "next_term": "تفريغ",
   "definition": "افرغ afrag2 emptier"
 }

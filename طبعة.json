@@ -1,4 +1,6 @@
 {
-  "arabic": "طبعة",
+  "term": "طبعة",
+  "previous_term": "طبع",
+  "next_term": "طباع",
   "definition": "طبعة ṭab‘a pl. -āt printing, print; edition, issue, impression"
 }

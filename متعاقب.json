@@ -1,4 +1,6 @@
 {
-  "arabic": "متعاقب",
+  "term": "متعاقب",
+  "previous_term": "معاقب",
+  "next_term": "عقد",
   "definition": "متعاقب muta‘āqib successive, consecutive, uninterrupted, continuous"
 }

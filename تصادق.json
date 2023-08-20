@@ -1,4 +1,6 @@
 {
-  "arabic": "تصادق",
+  "term": "تصادق",
+  "previous_term": "تصديق",
+  "next_term": "صادق",
   "definition": "تصادق taṣāduq legalization, authentication (على of a document)"
 }

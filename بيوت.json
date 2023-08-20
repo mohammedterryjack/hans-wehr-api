@@ -1,4 +1,6 @@
 {
-  "arabic": "بيوت",
+  "term": "بيوت",
+  "previous_term": "بيات",
+  "next_term": "مبيت",
   "definition": "بيوت bayyūt stale, old"
 }

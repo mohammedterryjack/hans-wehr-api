@@ -1,4 +1,6 @@
 {
-  "arabic": "مؤكد",
+  "term": "مؤكد",
+  "previous_term": "اكيد",
+  "next_term": "متاكد",
   "definition": "مؤكد mu’akkad certain, definite, sure; confirmed"
 }

@@ -1,4 +1,6 @@
 {
-  "arabic": "اطعام",
+  "term": "اطعام",
+  "previous_term": "تطعيم",
+  "next_term": "مطعوم",
   "definition": "اطعام iṭ‘ām feeding"
 }

@@ -1,4 +1,6 @@
 {
-  "arabic": "مقاضاة",
+  "term": "مقاضاة",
+  "previous_term": "قضية",
+  "next_term": "انقضاء",
   "definition": "مقاضاة muqāḍāh trial, hearing"
 }

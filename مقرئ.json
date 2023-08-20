@@ -1,4 +1,6 @@
 {
-  "arabic": "مقرئ",
+  "term": "مقرئ",
+  "previous_term": "مقروء",
+  "next_term": "قراج",
   "definition": "مقرئ muqri’ reciter of the Koran"
 }

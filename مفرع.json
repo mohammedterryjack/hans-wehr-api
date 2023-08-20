@@ -1,4 +1,6 @@
 {
-  "arabic": "مفرع",
+  "term": "مفرع",
+  "previous_term": "فارع",
+  "next_term": "متفرعات",
   "definition": "مفرع mufarra‘ ramified, branching"
 }

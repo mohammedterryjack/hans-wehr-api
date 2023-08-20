@@ -1,4 +1,6 @@
 {
-  "arabic": "معامل",
+  "term": "معامل",
+  "previous_term": "المعاميل",
+  "next_term": "مستعمل",
   "definition": "معامل mu‘āmil O coefficient (math.)"
 }

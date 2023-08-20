@@ -1,4 +1,6 @@
 {
-  "arabic": "نافدة",
+  "term": "نافدة",
+  "previous_term": "نافد",
+  "next_term": "نفذ",
   "definition": "نافدة nāfida void, vacuum"
 }

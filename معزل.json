@@ -1,4 +1,6 @@
 {
-  "arabic": "معزل",
+  "term": "معزل",
+  "previous_term": "اعزل",
+  "next_term": "انعزال",
   "definition": "معزل ma‘zil pl. معازل ma‘āzil2 place of retirement, house of retreat; seclusion, segregation, isolation; isolation ward (in a hospital) │ بمعزل عن separated, detached, apart, secluded, segregated, isolated from"
 }

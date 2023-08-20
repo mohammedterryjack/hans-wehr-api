@@ -1,4 +1,6 @@
 {
-  "arabic": "روزنامة",
+  "term": "روزنامة",
+  "previous_term": "روز",
+  "next_term": "روس",
   "definition": "روزنامة rūznāma almanac"
 }

@@ -1,4 +1,6 @@
 {
-  "arabic": "سبقة",
+  "term": "سبقة",
+  "previous_term": "سبق",
+  "next_term": "سباق",
   "definition": "سبقة subqa stake (in a race)"
 }

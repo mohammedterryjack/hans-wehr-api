@@ -1,4 +1,6 @@
 {
-  "arabic": "غير مسبوق",
+  "term": "غير مسبوق",
+  "previous_term": "سابقية",
+  "next_term": "مسبقا",
   "definition": "غير مسبوق gair masbūq unprecedented"
 }

@@ -1,4 +1,6 @@
 {
-  "arabic": "متحيز",
+  "term": "متحيز",
+  "previous_term": "حائز",
+  "next_term": "منحاز",
   "definition": "متحيز mutaḥayyiz partial, prejudiced, biased"
 }

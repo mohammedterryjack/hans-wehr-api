@@ -1,4 +1,6 @@
 {
-  "arabic": "ملفوظ",
+  "term": "ملفوظ",
+  "previous_term": "تلفظ",
+  "next_term": "لفع",
   "definition": "ملفوظ malfūẓ ejected, emitted; pronounced, uttered"
 }
